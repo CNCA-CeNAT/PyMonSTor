@@ -1,0 +1,1200 @@
+<Jobinfo>
+	<Job_Id>7752.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471563000</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7752</Error_Path>
+	<exec_host>cadejos-0.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471563101</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7752</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471563000</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7752.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>2</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471563000</etime>
+	<submit_args>test.sh -q n3h72</submit_args>
+	<start_time>1471563101</start_time>
+	<start_count>2</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471565532</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7751.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>dev</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471398368</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/STDIN.e7751</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>39966</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471398368</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/STDIN.o7751</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471398368</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=dev,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.191.119.139 50295 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/ldcl289,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.191.119.139 50295 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<queue_rank>1</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471398368</etime>
+	<submit_args>-V -I -V -q dev -l nodes=1 -l walltime=00:30:00</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471565532</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7753.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471565483</ctime>
+	<Error_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.e7753</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471565484</mtime>
+	<Output_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.o7753</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471565483</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 49692 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/9,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 49692 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,DISPLAY=localhost:10.0,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/rroman</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7753.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>3</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471565483</etime>
+	<submit_args>-V test.sh -q n3h72</submit_args>
+	<start_time>1471565484</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567028</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7754.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471565788</ctime>
+	<Error_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.e7754</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471565790</mtime>
+	<Output_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.o7754</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471565788</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 49692 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/9,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 49692 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,DISPLAY=localhost:10.0,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/rroman</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7754.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>4</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471565788</etime>
+	<submit_args>-V test.sh -q n3h72</submit_args>
+	<start_time>1471565790</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567039</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7757.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471566899</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/mem.e7757</Error_Path>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471566900</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/mem.o7757</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471566899</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=163.178.91.45 8739 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/10,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=163.178.91.45 8739 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/eromerob</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7757.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>7</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471566899</etime>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca mem.sh</submit_args>
+	<start_time>1471566900</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567259</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7756.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471566848</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7756</Error_Path>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471566849</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7756</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471566848</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7756.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>6</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471566848</etime>
+	<submit_args>test.sh</submit_args>
+	<start_time>1471566849</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567523</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7755.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471566780</ctime>
+	<Error_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.e7755</Error_Path>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471566782</mtime>
+	<Output_Path>meta.cnca:/home/rroman/torque-scripts/ejecutar.o7755</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471566780</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 49692 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/9,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 49692 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,DISPLAY=localhost:10.0,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/rroman</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7755.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>5</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471566780</etime>
+	<submit_args>-V test.sh</submit_args>
+	<start_time>1471566782</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567523</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7759.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471567929</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7759</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471567932</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7759</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471567929</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>11772</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7759.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>9</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471567929</etime>
+	<exit_status>0</exit_status>
+	<submit_args>test.sh</submit_args>
+	<start_time>1471567930</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471567932</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7760.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568360</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7760</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471568363</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7760</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471568360</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>11910</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7760.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>10</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471568360</etime>
+	<exit_status>0</exit_status>
+	<submit_args>test.sh</submit_args>
+	<start_time>1471568361</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471568363</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7767.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41181</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-*.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7768.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41181</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-*.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7769.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41181</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-*.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7770.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>51887</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-{0-4}.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7771.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>51887</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-{0-4}.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7772.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>51887</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-{0-4}.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7773.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>37214</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-[0-4].cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7774.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>37214</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-[0-4].cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7775.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>37214</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -q debug -l nodes=cadejos-[0-4].cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7776.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568810</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7776</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52179</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7776</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7777.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568811</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7777</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52179</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7777</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7778.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568812</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7778</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52179</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7778</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0+cadejos-1+cadejos-2+cadejos.3+cadejos-4</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7779.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568837</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7779</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>53669</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7779</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7780.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568838</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7780</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>53669</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7780</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7781.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568839</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.e7781</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>53669</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/STDIN.o7781</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</neednodes>
+		<nodect>5</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca+cadejos.3.cnca+cadejos-4.cnca</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7764.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568637</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7764</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471568640</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7764</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471568637</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>11951</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7764.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>11</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471568637</etime>
+	<exit_status>0</exit_status>
+	<submit_args>test.sh</submit_args>
+	<start_time>1471568638</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471568640</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7758.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471567231</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7758</Error_Path>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471567688</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7758</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471567231</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7758.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>8</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471567231</etime>
+	<submit_args>test.sh</submit_args>
+	<start_time>1471567688</start_time>
+	<start_count>2</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471568645</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7765.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>78972kb</mem>
+		<vmem>308812kb</vmem>
+		<walltime>4</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568747</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41980</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471568751</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471568747</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+	</Resource_List>
+	<session_id>11999</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7765.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>12</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471568747</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug</submit_args>
+	<start_time>1471568748</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471568751</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7766.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>9</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471568756</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0+cadejos-3.cnca/1+cadejos-3.cnca/2+cadejos-3.cnca/3+cadejos-3.cnca/4</exec_host>
+	<exec_port>15003+15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>48350</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471568765</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471568756</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>5</neednodes>
+		<nodect>5</nodect>
+		<nodes>5</nodes>
+	</Resource_List>
+	<session_id>12036</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7766.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>13</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471568756</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug -l nodes=5</submit_args>
+	<start_time>1471568757</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471568765</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7782.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>4</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471569039</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54362</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471569043</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471569039</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>12082</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7782.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>14</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471569039</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug -l nodes=1</submit_args>
+	<start_time>1471569040</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471569043</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7783.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>81992kb</mem>
+		<vmem>374096kb</vmem>
+		<walltime>3</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471569045</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0+cadejos-4.cnca/0</exec_host>
+	<exec_port>15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>37556</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471569049</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471569045</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>2</neednodes>
+		<nodect>2</nodect>
+		<nodes>2</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>12118</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7783.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>15</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471569045</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug -l nodes=2</submit_args>
+	<start_time>1471569046</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471569049</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7784.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>7</cput>
+		<mem>82284kb</mem>
+		<vmem>374228kb</vmem>
+		<walltime>1193</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471569050</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0+cadejos-4.cnca/0+cadejos-2.cnca/0+cadejos-1.cnca/0+cadejos-0.cnca/0</exec_host>
+	<exec_port>15003+15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>42483</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471570244</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471569050</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>5</neednodes>
+		<nodect>5</nodect>
+		<nodes>5</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>12155</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7784.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>16</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471569050</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug -l nodes=5</submit_args>
+	<start_time>1471569052</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471570244</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7785.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>11492kb</mem>
+		<vmem>357232kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471571970</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/mem.e7785</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0+cadejos-2.cnca/0</exec_host>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471571972</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/mem.o7785</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471571970</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<session_id>12553</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=163.178.91.45 8739 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/10,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=163.178.91.45 8739 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/eromerob</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7785.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>17</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471571970</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca mem.sh</submit_args>
+	<start_time>1471571971</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471571972</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+

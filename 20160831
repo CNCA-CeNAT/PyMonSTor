@@ -1,0 +1,1518 @@
+<Jobinfo>
+	<Job_Id>8005.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>2801</cput>
+		<mem>2664848kb</mem>
+		<vmem>3676040kb</vmem>
+		<walltime>866</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472622744</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e8005</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472623611</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o8005</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472622744</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>24679</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>8005.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>195</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472622744</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472622745</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472623612</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8004.meta.cnca</Job_Id>
+	<Job_Name>life</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>5135</cput>
+		<mem>1129240kb</mem>
+		<vmem>2517832kb</vmem>
+		<walltime>1310</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472622648</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.e8004</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472623960</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.o8004</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472622648</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>2276</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>8004.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>194</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472622648</etime>
+	<exit_status>0</exit_status>
+	<submit_args>life2.pbs</submit_args>
+	<start_time>1472622650</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472623961</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8006.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>86740kb</mem>
+		<vmem>729716kb</vmem>
+		<walltime>236</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676082</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60707</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472676319</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472676082</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>600</walltime>
+	</Resource_List>
+	<session_id>6293</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 43584 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 43584 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgamboa,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8006.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>196</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472676082</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:10:00</submit_args>
+	<start_time>1472676083</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472676319</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8008.meta.cnca</Job_Id>
+	<Job_Name>shear</Job_Name>
+	<Job_Owner>cgamboa@cadejos-3.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676968</ctime>
+	<Error_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.e8008</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.o8008</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>1</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=cadejos-3.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>shear.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>cadejos-3.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8009.meta.cnca</Job_Id>
+	<Job_Name>shear</Job_Name>
+	<Job_Owner>cgamboa@cadejos-3.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676969</ctime>
+	<Error_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.e8009</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.o8009</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>1</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=cadejos-3.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>shear.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>cadejos-3.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8010.meta.cnca</Job_Id>
+	<Job_Name>shear</Job_Name>
+	<Job_Owner>cgamboa@cadejos-3.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676970</ctime>
+	<Error_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.e8010</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>cadejos-3.cnca:/home/cgamboa/mc8836/hw2/shear.o8010</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>1</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=cadejos-3.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>shear.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>cadejos-3.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8007.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>2</cput>
+		<mem>85236kb</mem>
+		<vmem>374364kb</vmem>
+		<walltime>158</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676818</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46962</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472676977</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472676818</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>600</walltime>
+	</Resource_List>
+	<session_id>6468</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 43584 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 43584 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgamboa,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8007.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>197</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472676818</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:10:0</submit_args>
+	<start_time>1472676819</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472676977</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8011.meta.cnca</Job_Id>
+	<Job_Name>shear</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>2571</cput>
+		<mem>31652kb</mem>
+		<vmem>1383696kb</vmem>
+		<walltime>501</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472676990</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shear.e8011</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472677500</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shear.o8011</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472676990</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6702</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8011.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>198</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8011.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8011.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shear.o8011, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8011.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8011.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shear.e8011, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8011.meta.cnca.ER</sched_hint>
+	<etime>1472676990</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear.pbs</submit_args>
+	<start_time>1472676991</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472677500</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8012.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>618</cput>
+		<mem>181520kb</mem>
+		<vmem>1539304kb</vmem>
+		<walltime>737</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472680875</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>57738</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472681613</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472680875</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>600</walltime>
+	</Resource_List>
+	<session_id>7370</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 54722 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 54722 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgamboa,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8012.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>199</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472680875</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:10:00</submit_args>
+	<start_time>1472680876</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472681613</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8013.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>251</cput>
+		<mem>116664kb</mem>
+		<vmem>501800kb</vmem>
+		<walltime>236</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472681628</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>38197</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472681866</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472681628</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7607</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 54722 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 54722 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgamboa,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8013.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>200</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472681628</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472681629</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472681866</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8015.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>355</cput>
+		<mem>8984kb</mem>
+		<vmem>388228kb</vmem>
+		<walltime>94</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472683122</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8015</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472683225</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8015</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472683122</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>28762</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8015.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>202</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8015.meta.cnca on host cadejos-4.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8015.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8015, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8015.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8015.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8015, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8015.meta.cnca.ER</sched_hint>
+	<etime>1472683122</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_for.pbs</submit_args>
+	<start_time>1472683123</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472683225</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8014.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>4250</cput>
+		<mem>44164kb</mem>
+		<vmem>1394432kb</vmem>
+		<walltime>1189</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472682111</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8014</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472683309</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8014</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472682111</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7690</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8014.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>201</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8014.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8014.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8014, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8014.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8014.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8014, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8014.meta.cnca.ER</sched_hint>
+	<etime>1472682111</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_for.pbs</submit_args>
+	<start_time>1472682112</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472683309</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8016.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472683124</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8016</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472683124</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8016</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472683124</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<queue_rank>203</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472683124</etime>
+	<submit_args>shear_for.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472683495</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8017.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>357</cput>
+		<mem>9084kb</mem>
+		<vmem>1363132kb</vmem>
+		<walltime>94</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472683710</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8017</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472683814</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8017</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472683710</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8145</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8017.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>204</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8017.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8017.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8017, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8017.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8017.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8017, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8017.meta.cnca.ER</sched_hint>
+	<etime>1472683710</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_for.pbs</submit_args>
+	<start_time>1472683712</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472683814</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8018.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>354</cput>
+		<mem>8812kb</mem>
+		<vmem>527500kb</vmem>
+		<walltime>94</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472683880</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8018</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472683982</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/result.txt</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472683880</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8553</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8018.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>205</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8018.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8018.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/result.txt, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8018.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8018.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8018, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8018.meta.cnca.ER</sched_hint>
+	<etime>1472683880</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-o /home/cgamboa/result.txt shear_for.pbs</submit_args>
+	<start_time>1472683880</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472683982</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8019.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>12</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>27</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472684174</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>58827</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472684202</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472684174</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>600</walltime>
+	</Resource_List>
+	<session_id>8950</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=login-0.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 54722 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 54722 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8019.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>206</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472684174</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:10:00</submit_args>
+	<start_time>1472684175</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472684202</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8020.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>70</cput>
+		<mem>8788kb</mem>
+		<vmem>388228kb</vmem>
+		<walltime>19</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472684379</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8020</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472684407</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8020</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472684379</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9007</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8020.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>207</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8020.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8020.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8020, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8020.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8020.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8020, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8020.meta.cnca.ER</sched_hint>
+	<etime>1472684379</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_short.pbs</submit_args>
+	<start_time>1472684380</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472684407</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8021.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>69</cput>
+		<mem>8792kb</mem>
+		<vmem>388228kb</vmem>
+		<walltime>18</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472685055</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8021</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472685083</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8021</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472685055</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9208</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8021.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>208</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8021.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8021.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8021, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8021.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8021.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8021, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8021.meta.cnca.ER</sched_hint>
+	<etime>1472685055</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_short.pbs</submit_args>
+	<start_time>1472685056</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472685083</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8022.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>69</cput>
+		<mem>8800kb</mem>
+		<vmem>388228kb</vmem>
+		<walltime>18</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472685277</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8022</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472685305</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8022</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472685277</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9323</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8022.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>209</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8022.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8022.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8022, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8022.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8022.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8022, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8022.meta.cnca.ER</sched_hint>
+	<etime>1472685277</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_short.pbs</submit_args>
+	<start_time>1472685278</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472685305</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8023.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>69</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>18</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472689746</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8023</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472689774</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8023</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472689746</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9737</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8023.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>210</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8023.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8023.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8023, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8023.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8023.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8023, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8023.meta.cnca.ER</sched_hint>
+	<etime>1472689746</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_short.pbs</submit_args>
+	<start_time>1472689747</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472689774</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8024.meta.cnca</Job_Id>
+	<Job_Name>msort_run1</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472689811</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/mc8836/hw1/msort_run1.e8024</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472689820</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/mc8836/hw1/msort_run1.o8024</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472689811</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9862</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8024.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>211</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8024.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8024.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw1/msort_run1.o8024, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8024.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/8024.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/mc8836/hw1/msort_run1.e8024, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8024.meta.cnca.ER</sched_hint>
+	<etime>1472689811</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472689812</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472689820</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8025.meta.cnca</Job_Id>
+	<Job_Name>msort_run1</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472690076</ctime>
+	<Error_Path>login-1.cnca:/home/cgamboa/mc8836/hw1/msort_run1.e8025</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472690078</mtime>
+	<Output_Path>login-1.cnca:/home/cgamboa/mc8836/hw1/msort_run1.o8025</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472690076</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9957</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8025.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>212</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472690076</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472690078</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472690078</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8026.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>71</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>19</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472690106</ctime>
+	<Error_Path>login-1.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8026</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472690125</mtime>
+	<Output_Path>login-1.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8026</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472690106</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>10039</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8026.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>213</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472690106</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_short.pbs</submit_args>
+	<start_time>1472690106</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472690126</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8030.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>2155</cput>
+		<mem>42396kb</mem>
+		<vmem>1394432kb</vmem>
+		<walltime>605</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472692110</ctime>
+	<Error_Path>login-1.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8030</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472692722</mtime>
+	<Output_Path>login-1.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8030</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472692110</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>10279</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8030.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>214</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8030.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8030.meta.cnca.OU to cgamboa@login-1.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8030, error 1
+*** error from copy
+/home/cgamboa/.bashrc: line 16: /opt/intel/bin/compilevars.sh: No such file or directory
+scp: /home/cgamboa/mc8836/hw2/~/shearJob.o8030: No such file or directory
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8030.meta.cnca.OU</sched_hint>
+	<etime>1472692110</etime>
+	<exit_status>0</exit_status>
+	<submit_args>shear_for.pbs</submit_args>
+	<start_time>1472692112</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472692722</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8031.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>177</cput>
+		<mem>8844kb</mem>
+		<vmem>388236kb</vmem>
+		<walltime>47</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472695450</ctime>
+	<Error_Path>meta.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8031</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472695503</mtime>
+	<Output_Path>meta.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8031</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472695450</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>10747</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=190.171.117.15 60615 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/cgamboa,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=190.171.117.15 60615 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8031.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>215</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 8031.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/8031.meta.cnca.OU to cgamboa@meta.cnca:/home/cgamboa/mc8836/hw2/~/shearJob.o8031, error 1
+*** error from copy
+/home/cgamboa/.bashrc: line 16: /opt/intel/bin/compilevars.sh: No such file or directory
+scp: /home/cgamboa/mc8836/hw2/~/shearJob.o8031: No such file or directory
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/8031.meta.cnca.OU</sched_hint>
+	<etime>1472695450</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V shear_for.pbs</submit_args>
+	<start_time>1472695451</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472695503</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8032.meta.cnca</Job_Id>
+	<Job_Name>shearJob</Job_Name>
+	<Job_Owner>cgamboa@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>2809</cput>
+		<mem>31680kb</mem>
+		<vmem>1383700kb</vmem>
+		<walltime>775</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472695728</ctime>
+	<Error_Path>meta.cnca:/home/cgamboa/mc8836/hw2/shearJob.e8032</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472696504</mtime>
+	<Output_Path>meta.cnca:/home/cgamboa/mc8836/hw2/shearJob.o8032</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472695728</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>10965</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw2,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=190.171.117.15 60615 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/cgamboa,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=cgamboa,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/cgamboa,PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PWD=/home/cgamboa/mc8836/hw2,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgamboa,LOGNAME=cgamboa,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=190.171.117.15 60615 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8032.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>216</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472695728</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V shear.pbs</submit_args>
+	<start_time>1472695729</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472696505</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+

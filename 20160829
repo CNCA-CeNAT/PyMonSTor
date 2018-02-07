@@ -1,0 +1,3008 @@
+<Jobinfo>
+	<Job_Id>7912.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472479514</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7912</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472479523</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7912</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472479514</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>17155</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7912.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>117</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7912.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7912.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7912, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7912.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7912.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7912, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7912.meta.cnca.ER</sched_hint>
+	<etime>1472479514</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472479515</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472479523</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7913.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>695</cput>
+		<mem>31708608kb</mem>
+		<vmem>78542448kb</vmem>
+		<walltime>1817</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472484822</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>50748</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472486641</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472484822</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>17518</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-1.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36655 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36655 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgomez,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7913.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>118</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472484822</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472484824</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472486641</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7914.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>1092</cput>
+		<mem>31766684kb</mem>
+		<vmem>39305104kb</vmem>
+		<walltime>1838</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472486644</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46753</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472488483</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472486644</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>17831</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-1.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36655 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36655 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgomez,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7914.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>119</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472486644</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472486645</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472488483</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7915.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472488730</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7915</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472488740</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7915</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472488730</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18039</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7915.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>120</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7915.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7915.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7915, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7915.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7915.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7915, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7915.meta.cnca.ER</sched_hint>
+	<etime>1472488730</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472488731</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472488740</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7919.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472488863</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7919</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472488873</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7919</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472488863</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18093</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7919.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>121</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7919.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7919.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7919, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7919.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7919.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7919, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7919.meta.cnca.ER</sched_hint>
+	<etime>1472488863</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472488865</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472488873</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7920.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472488996</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7920</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472489005</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7920</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472488996</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18180</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 54069 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 54069 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7920.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>122</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7920.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7920.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7920, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7920.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7920.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7920, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7920.meta.cnca.ER</sched_hint>
+	<etime>1472488996</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V msort.pbs</submit_args>
+	<start_time>1472488997</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472489005</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7921.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472489253</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7921</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472489262</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7921</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472489253</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18221</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7921.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>123</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7921.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7921.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7921, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7921.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7921.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7921, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7921.meta.cnca.ER</sched_hint>
+	<etime>1472489253</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472489254</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472489262</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7922.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472489701</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/error.txt</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472489710</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/output.txt</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472489701</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18284</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7922.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>124</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7922.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7922.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/output.txt, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7922.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7922.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/error.txt, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7922.meta.cnca.ER</sched_hint>
+	<etime>1472489701</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472489702</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472489710</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7923.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>21</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472489977</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>58273</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472489999</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472489977</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18330</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 52671 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 52671 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/cgomez</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7923.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>125</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472489977</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472489978</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472489999</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7924.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472490059</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7924</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472490068</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7924</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472490059</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18416</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7924.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>126</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7924.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7924.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7924, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7924.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7924.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7924, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7924.meta.cnca.ER</sched_hint>
+	<etime>1472490059</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472490060</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472490068</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7925.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472490135</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/error.txt</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472490144</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/out.txt</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472490135</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18539</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7925.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>127</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7925.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7925.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/out.txt, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7925.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7925.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/error.txt, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7925.meta.cnca.ER</sched_hint>
+	<etime>1472490135</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs -o out.txt -e error.txt</submit_args>
+	<start_time>1472490135</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472490144</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7926.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472490380</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7926</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472490389</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7926</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472490380</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18615</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7926.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>128</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7926.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7926.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7926, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7926.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7926.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7926, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7926.meta.cnca.ER</sched_hint>
+	<etime>1472490380</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472490381</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472490389</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7927.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472490443</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7927</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472490452</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7927</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472490443</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18685</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7927.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>129</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7927.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7927.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7927, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7927.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7927.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7927, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7927.meta.cnca.ER</sched_hint>
+	<etime>1472490443</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472490444</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472490452</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7928.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79300kb</mem>
+		<vmem>308956kb</vmem>
+		<walltime>244</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472490755</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46230</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491000</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472490755</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18774</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 52671 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 52671 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7928.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>130</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472490755</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472490756</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491000</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7929.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472491053</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7929</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491063</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7929</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472491053</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>18856</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/cgomez/computacion_paralela/mc8836/hw1/,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7929.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>131</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7929.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7929.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7929, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7929.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7929.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7929, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7929.meta.cnca.ER</sched_hint>
+	<etime>1472491053</etime>
+	<exit_status>0</exit_status>
+	<submit_args>/home/cgomez/computacion_paralela/mc8836/hw1/msort.pbs -d /home/cgomez/computacion_paralela/mc8836/hw1/</submit_args>
+	<start_time>1472491055</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491063</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7933.meta.cnca</Job_Id>
+	<Job_Name>dflag.pbs</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472491186</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/dflag.pbs.e7933</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491195</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/dflag.pbs.o7933</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472491186</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>18929</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7933.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>132</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7933.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7933.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/dflag.pbs.o7933, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7933.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7933.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/dflag.pbs.e7933, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7933.meta.cnca.ER</sched_hint>
+	<etime>1472491186</etime>
+	<exit_status>0</exit_status>
+	<submit_args>dflag.pbs</submit_args>
+	<start_time>1472491187</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491195</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7934.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472491781</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7934</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491790</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7934</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472491781</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>19017</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7934.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>133</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7934.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7934.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7934, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7934.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7934.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7934, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7934.meta.cnca.ER</sched_hint>
+	<etime>1472491781</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472491782</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491790</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7935.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472491782</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7935</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491792</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7935</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472491782</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>13787</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7935.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>134</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7935.meta.cnca on host cadejos-4.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7935.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7935, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7935.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7935.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7935, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7935.meta.cnca.ER</sched_hint>
+	<etime>1472491782</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472491784</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491792</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7936.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472491813</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7936</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472491824</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7936</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472491813</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>19096</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7936.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>135</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7936.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7936.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7936, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7936.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7936.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7936, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7936.meta.cnca.ER</sched_hint>
+	<etime>1472491813</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472491815</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472491824</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7937.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>57</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>9</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472492170</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7937</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472492189</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7937</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472492170</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>19785</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7937.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>136</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7937.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7937.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7937, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7937.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7937.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7937, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7937.meta.cnca.ER</sched_hint>
+	<etime>1472492170</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472492171</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472492190</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7938.meta.cnca</Job_Id>
+	<Job_Name>msort_cgv</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472501661</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7938</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472501671</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7938</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472501661</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>20466</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7938.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>137</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7938.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7938.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.o7938, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7938.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7938.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort_cgv.e7938, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7938.meta.cnca.ER</sched_hint>
+	<etime>1472501661</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472501663</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472501671</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7939.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>26</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472501814</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>50271</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472501840</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472501814</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>20537</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 56125 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 56125 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/cgomez</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7939.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>138</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472501814</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472501814</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472501840</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7940.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472512041</ctime>
+	<Error_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7940</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472512051</mtime>
+	<Output_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7940</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472512041</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21495</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7940.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>139</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7940.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7940.meta.cnca.OU to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7940, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7940.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7940.meta.cnca.ER to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7940, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7940.meta.cnca.ER</sched_hint>
+	<etime>1472512041</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472512043</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472512051</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7941.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472512276</ctime>
+	<Error_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7941</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472512285</mtime>
+	<Output_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7941</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472512276</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21652</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7941.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>140</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7941.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7941.meta.cnca.OU to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7941, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7941.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7941.meta.cnca.ER to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7941, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7941.meta.cnca.ER</sched_hint>
+	<etime>1472512276</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472512277</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472512285</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7942.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472512576</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7942</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472512585</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7942</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472512576</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21729</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7942.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>141</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7942.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7942.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7942, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7942.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7942.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7942, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7942.meta.cnca.ER</sched_hint>
+	<etime>1472512576</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472512577</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472512585</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7943.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472512719</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7943</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472512728</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7943</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472512719</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21869</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7943.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>142</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7943.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7943.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7943, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7943.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7943.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7943, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7943.meta.cnca.ER</sched_hint>
+	<etime>1472512719</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472512720</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472512728</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7944.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472512839</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7944</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472512848</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7944</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472512839</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21955</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7944.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>143</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7944.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7944.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7944, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7944.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7944.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7944, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7944.meta.cnca.ER</sched_hint>
+	<etime>1472512839</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472512839</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472512848</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7945.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472513038</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7945</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472513046</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7945</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472513038</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22097</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7945.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>144</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7945.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7945.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7945, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7945.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7945.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7945, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7945.meta.cnca.ER</sched_hint>
+	<etime>1472513038</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472513038</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472513046</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7946.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472513235</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7946</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472513244</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7946</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472513235</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22246</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7946.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>145</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7946.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7946.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7946, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7946.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7946.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7946, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7946.meta.cnca.ER</sched_hint>
+	<etime>1472513235</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472513236</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472513244</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7947.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472513535</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7947</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472513544</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7947</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472513535</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22333</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7947.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>146</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7947.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7947.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7947, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7947.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7947.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7947, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7947.meta.cnca.ER</sched_hint>
+	<etime>1472513535</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472513536</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472513544</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7948.meta.cnca</Job_Id>
+	<Job_Name>life_tests</Job_Name>
+	<Job_Owner>cgamboa@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>933</cput>
+		<mem>199516kb</mem>
+		<vmem>977188kb</vmem>
+		<walltime>336</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472514585</ctime>
+	<Error_Path>login-0.cnca:/home/cgamboa/tarea1/cp-tarea1/life_tests.e7948</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472514931</mtime>
+	<Output_Path>login-0.cnca:/home/cgamboa/tarea1/cp-tarea1/life_tests.o7948</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472514585</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22443</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/tarea1/cp-tarea1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>7948.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>147</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7948.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7948.meta.cnca.OU to cgamboa@login-0.cnca:/home/cgamboa/tarea1/cp-tarea1/life_tests.o7948, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7948.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7948.meta.cnca.ER to cgamboa@login-0.cnca:/home/cgamboa/tarea1/cp-tarea1/life_tests.e7948, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7948.meta.cnca.ER</sched_hint>
+	<etime>1472514585</etime>
+	<exit_status>0</exit_status>
+	<submit_args>life.pbs</submit_args>
+	<start_time>1472514586</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472514931</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7949.meta.cnca</Job_Id>
+	<Job_Name>test</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472517748</ctime>
+	<Error_Path>login-1.cnca:/home/cgomez/torque-scripts/test.e7949</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472517758</mtime>
+	<Output_Path>login-1.cnca:/home/cgomez/torque-scripts/test.o7949</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472517748</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22996</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/torque-scripts,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7949.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>148</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7949.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7949.meta.cnca.OU to cgomez@login-1.cnca:/home/cgomez/torque-scripts/test.o7949, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7949.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7949.meta.cnca.ER to cgomez@login-1.cnca:/home/cgomez/torque-scripts/test.e7949, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7949.meta.cnca.ER</sched_hint>
+	<etime>1472517748</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-q n3h72 test.sh</submit_args>
+	<start_time>1472517749</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472517758</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7950.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472522770</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7950</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472522771</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7950</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472522770</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>23630</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7950.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>149</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472522770</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472522771</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472522772</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7951.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472523519</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7951</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472523520</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7951</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472523519</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>23721</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7951.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>150</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472523519</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472523520</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472523521</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7952.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>520</cput>
+		<mem>235704kb</mem>
+		<vmem>993000kb</vmem>
+		<walltime>160</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472523811</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7952</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472523972</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7952</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472523811</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>24416</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7952.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>151</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472523811</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472523812</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472523972</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7956.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529513</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7956</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7956</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>9000</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7957.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529514</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7957</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7957</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>9000</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7958.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529515</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7958</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7958</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>9000</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7953.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1809</cput>
+		<mem>11722612kb</mem>
+		<vmem>11960100kb</vmem>
+		<walltime>1811</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472527397</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7953</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472529209</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7953</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472527397</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>25303</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7953.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>152</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472527397</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472527398</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472529209</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7959.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529551</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7959</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7959</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>5400</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7960.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529552</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7960</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7960</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>5400</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7961.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529553</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7961</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7961</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>5400</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7962.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529579</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7962</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7962</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7963.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529580</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7963</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7963</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7964.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529581</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7964</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7964</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>msort2.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7954.meta.cnca</Job_Id>
+	<Job_Name>life</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1815</cput>
+		<mem>19581492kb</mem>
+		<vmem>19819020kb</vmem>
+		<walltime>1827</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472528514</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.e7954</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472530342</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.o7954</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472528514</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>16827</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7954.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>153</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472528514</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>life2.pbs</submit_args>
+	<start_time>1472528515</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472530343</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7955.meta.cnca</Job_Id>
+	<Job_Name>life</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>644</cput>
+		<mem>32217936kb</mem>
+		<vmem>38692836kb</vmem>
+		<walltime>1853</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472528574</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.e7955</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472531063</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.o7955</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472528574</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>25455</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7955.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>154</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472528574</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>life2.pbs</submit_args>
+	<start_time>1472529210</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472531064</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7965.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1831</cput>
+		<mem>11722644kb</mem>
+		<vmem>11960088kb</vmem>
+		<walltime>1843</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472529603</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7965</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472532187</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7965</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472529603</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>17019</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7965.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>155</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472529603</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472530344</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472532188</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7966.meta.cnca</Job_Id>
+	<Job_Name>life</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1829</cput>
+		<mem>19581464kb</mem>
+		<vmem>19819020kb</vmem>
+		<walltime>1843</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472530932</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.e7966</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472532908</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.o7966</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472530932</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>25759</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7966.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>156</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472530932</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>life2.pbs</submit_args>
+	<start_time>1472531065</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472532909</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7967.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1821</cput>
+		<mem>11722644kb</mem>
+		<vmem>11960092kb</vmem>
+		<walltime>1831</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472532694</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7967</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472534527</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7967</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472532694</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>17203</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7967.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>157</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472532694</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>msort2.pbs</submit_args>
+	<start_time>1472532696</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472534528</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7968.meta.cnca</Job_Id>
+	<Job_Name>life</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1810</cput>
+		<mem>19581472kb</mem>
+		<vmem>19819020kb</vmem>
+		<walltime>1821</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472534011</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.e7968</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472535833</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/life.o7968</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472534011</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>26076</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7968.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>158</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472534011</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>life2.pbs</submit_args>
+	<start_time>1472534012</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472535834</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

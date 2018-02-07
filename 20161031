@@ -1,0 +1,504 @@
+<Jobinfo>
+	<Job_Id>9364.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>lualcava@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477924735</ctime>
+	<Error_Path>login-0.cnca:/home/lualcava/STDIN.e9364</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>36217</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/lualcava/STDIN.o9364</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-3.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-3.cnca</nodes>
+		<procct>1</procct>
+		<walltime>28800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/lualcava,PBS_O_LOGNAME=lualcava,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lualcava/bin,PBS_O_MAIL=/var/spool/mail/lualcava,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/lualcava,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>lualcava</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q n3h72 -l nodes=cadejos-3.cnca -lwalltime=8:00:00</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9365.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>lualcava@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477924736</ctime>
+	<Error_Path>login-0.cnca:/home/lualcava/STDIN.e9365</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>36217</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/lualcava/STDIN.o9365</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-3.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-3.cnca</nodes>
+		<procct>1</procct>
+		<walltime>28800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/lualcava,PBS_O_LOGNAME=lualcava,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lualcava/bin,PBS_O_MAIL=/var/spool/mail/lualcava,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/lualcava,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>lualcava</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q n3h72 -l nodes=cadejos-3.cnca -lwalltime=8:00:00</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9366.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>lualcava@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477924737</ctime>
+	<Error_Path>login-0.cnca:/home/lualcava/STDIN.e9366</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>36217</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>login-0.cnca:/home/lualcava/STDIN.o9366</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-3.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-3.cnca</nodes>
+		<procct>1</procct>
+		<walltime>28800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/lualcava,PBS_O_LOGNAME=lualcava,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lualcava/bin,PBS_O_MAIL=/var/spool/mail/lualcava,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/lualcava,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>lualcava</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q n3h72 -l nodes=cadejos-3.cnca -lwalltime=8:00:00</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9367.meta.cnca</Job_Id>
+	<Job_Name>seleccioncg</Job_Name>
+	<Job_Owner>lualcava@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477925178</ctime>
+	<Error_Path>login-0.cnca:/home/lualcava/K_Pruebas/seleccioncg.e9367</Error_Path>
+	<exec_host>cadejos-0.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>lcalvo@itcr.ac.cr</Mail_Users>
+	<mtime>1477937236</mtime>
+	<Output_Path>login-0.cnca:/home/lualcava/K_Pruebas/seleccioncg.o9367</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477925178</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-0.cnca</nodes>
+		<walltime>252000</walltime>
+	</Resource_List>
+	<session_id>16475</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/lualcava,PBS_O_LOGNAME=lualcava,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lualcava/bin,PBS_O_MAIL=/var/spool/mail/lualcava,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/lualcava/K_Pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>lualcava</euser>
+	<egroup>cluster</egroup>
+	<hashname>9367.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>3</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477925178</etime>
+	<exit_status>2</exit_status>
+	<submit_args>ejecutar.sh</submit_args>
+	<start_time>1477937236</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477937237</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9371.meta.cnca</Job_Id>
+	<Job_Name>hello</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>phi-debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477952801</ctime>
+	<Error_Path>login-1.cnca:/home/meneses/parallel_computing/mpi/hello/hello.e9371</Error_Path>
+	<exec_host>phi-d.cnca/0+phi-d.cnca/1+phi-d.cnca/2+phi-d.cnca/3</exec_host>
+	<exec_port>15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1477952805</mtime>
+	<Output_Path>login-1.cnca:/home/meneses/parallel_computing/mpi/hello/hello.o9371</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477952801</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>4</neednodes>
+		<nodect>4</nodect>
+		<nodes>4</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>171099</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=phi-debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/mpi/hello,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>9371.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>4</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477952801</etime>
+	<exit_status>127</exit_status>
+	<submit_args>submit.pbs</submit_args>
+	<start_time>1477952803</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477952806</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9372.meta.cnca</Job_Id>
+	<Job_Name>compilar</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79368kb</mem>
+		<vmem>309212kb</vmem>
+		<walltime>17</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>phi-debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477952972</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>phi-d.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>49194</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1477952991</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477952972</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>phi-debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>171234</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=phi-debug,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/prueba/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MODULE_VERSION_STACK=3.2.10,XDG_SESSION_ID=1979,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60557 22,SSH_TTY=/dev/pts/6,QT_GRAPHICSSYSTEM_CHECKED=1,USER=dag,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MODULE_VERSION=3.2.10,MAIL=/var/spool/mail/dag,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PWD=/home/prueba/torque-scripts,_LMFILES_=/opt/Modules/3.2.10/modulefiles/null,LANG=en_US.UTF-8,MODULEPATH=/opt/Modules/versions:/opt/Modules/$MODULE_VERSION/modulefiles:/opt/modules:/opt/libs/modulefiles:/opt/tools/modulefiles:/opt/compilers/modulefiles:/opt/python/modulefiles:/opt/debug/modulefiles,LOADEDMODULES=null,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/dag,MODULERCFILE=/opt/modulerc,LOGNAME=dag,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60557 10.0.0.10 22,MODULESHOME=/opt/Modules/3.2.10,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/504,BASH_FUNC_module()=() {  eval `/opt/Modules/$MODULE_VERSION/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/prueba</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>9372.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>5</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477952972</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q phi-debug compilar.sh</submit_args>
+	<start_time>1477952973</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477952991</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9373.meta.cnca</Job_Id>
+	<Job_Name>compilar</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>phi-debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477952995</ctime>
+	<Error_Path>login-0.cnca:/home/prueba/torque-scripts/compilar.e9373</Error_Path>
+	<exec_host>phi-d.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1477953008</mtime>
+	<Output_Path>login-0.cnca:/home/prueba/torque-scripts/compilar.o9373</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477952995</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>phi-debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>171286</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=phi-debug,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/prueba/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MODULE_VERSION_STACK=3.2.10,XDG_SESSION_ID=1979,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60557 22,SSH_TTY=/dev/pts/6,QT_GRAPHICSSYSTEM_CHECKED=1,USER=dag,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MODULE_VERSION=3.2.10,MAIL=/var/spool/mail/dag,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PWD=/home/prueba/torque-scripts,_LMFILES_=/opt/Modules/3.2.10/modulefiles/null,LANG=en_US.UTF-8,MODULEPATH=/opt/Modules/versions:/opt/Modules/$MODULE_VERSION/modulefiles:/opt/modules:/opt/libs/modulefiles:/opt/tools/modulefiles:/opt/compilers/modulefiles:/opt/python/modulefiles:/opt/debug/modulefiles,LOADEDMODULES=null,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/dag,MODULERCFILE=/opt/modulerc,LOGNAME=dag,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60557 10.0.0.10 22,MODULESHOME=/opt/Modules/3.2.10,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/504,BASH_FUNC_module()=() {  eval `/opt/Modules/$MODULE_VERSION/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/prueba</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>9373.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>6</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9373.meta.cnca on host phi-d.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9373.meta.cnca.OU to dag@login-0.cnca:/home/prueba/torque-scripts/compilar.o9373, error 1
+*** error from copy
+scp: /home/prueba/torque-scripts/compilar.o9373: Permission denied
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9373.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9373.meta.cnca.ER to dag@login-0.cnca:/home/prueba/torque-scripts/compilar.e9373, error 1
+*** error from copy
+scp: /home/prueba/torque-scripts/compilar.e9373: Permission denied
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9373.meta.cnca.ER</sched_hint>
+	<etime>1477952995</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V -q phi-debug compilar.sh</submit_args>
+	<start_time>1477952997</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477953008</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9377.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>phi-debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477953060</ctime>
+	<Error_Path>login-0.cnca:/home/prueba/torque-scripts/ejecutar.e9377</Error_Path>
+	<exec_host>phi-d.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1477953073</mtime>
+	<Output_Path>login-0.cnca:/home/prueba/torque-scripts/ejecutar.o9377</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477953060</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>phi-debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>171349</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=phi-debug,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/prueba/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MODULE_VERSION_STACK=3.2.10,XDG_SESSION_ID=1979,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60557 22,SSH_TTY=/dev/pts/6,QT_GRAPHICSSYSTEM_CHECKED=1,USER=dag,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MODULE_VERSION=3.2.10,MAIL=/var/spool/mail/dag,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PWD=/home/prueba/torque-scripts,_LMFILES_=/opt/Modules/3.2.10/modulefiles/null,LANG=en_US.UTF-8,MODULEPATH=/opt/Modules/versions:/opt/Modules/$MODULE_VERSION/modulefiles:/opt/modules:/opt/libs/modulefiles:/opt/tools/modulefiles:/opt/compilers/modulefiles:/opt/python/modulefiles:/opt/debug/modulefiles,LOADEDMODULES=null,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/dag,MODULERCFILE=/opt/modulerc,LOGNAME=dag,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60557 10.0.0.10 22,MODULESHOME=/opt/Modules/3.2.10,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/504,BASH_FUNC_module()=() {  eval `/opt/Modules/$MODULE_VERSION/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/prueba</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>9377.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>7</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9377.meta.cnca on host phi-d.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9377.meta.cnca.OU to dag@login-0.cnca:/home/prueba/torque-scripts/ejecutar.o9377, error 1
+*** error from copy
+scp: /home/prueba/torque-scripts/ejecutar.o9377: Permission denied
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9377.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9377.meta.cnca.ER to dag@login-0.cnca:/home/prueba/torque-scripts/ejecutar.e9377, error 1
+*** error from copy
+scp: /home/prueba/torque-scripts/ejecutar.e9377: Permission denied
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9377.meta.cnca.ER</sched_hint>
+	<etime>1477953060</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q phi-debug ejecutar.sh</submit_args>
+	<start_time>1477953062</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477953074</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9378.meta.cnca</Job_Id>
+	<Job_Name>interactivo.sh</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>phi-debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477953142</ctime>
+	<Error_Path>login-0.cnca:/home/dag/interactivo.sh.e9378</Error_Path>
+	<exec_host>phi-d.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1477953144</mtime>
+	<Output_Path>login-0.cnca:/home/dag/interactivo.sh.o9378</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477953142</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>phi-debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>171406</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=phi-debug,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/dag,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MODULE_VERSION_STACK=3.2.10,XDG_SESSION_ID=1979,HOSTNAME=login-0.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60557 22,SSH_TTY=/dev/pts/6,QT_GRAPHICSSYSTEM_CHECKED=1,USER=dag,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MODULE_VERSION=3.2.10,MAIL=/var/spool/mail/dag,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PWD=/home/dag,_LMFILES_=/opt/Modules/3.2.10/modulefiles/null,LANG=en_US.UTF-8,MODULEPATH=/opt/Modules/versions:/opt/Modules/$MODULE_VERSION/modulefiles:/opt/modules:/opt/libs/modulefiles:/opt/tools/modulefiles:/opt/compilers/modulefiles:/opt/python/modulefiles:/opt/debug/modulefiles,LOADEDMODULES=null,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/dag,MODULERCFILE=/opt/modulerc,LOGNAME=dag,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60557 10.0.0.10 22,MODULESHOME=/opt/Modules/3.2.10,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/504,BASH_FUNC_module()=() {  eval `/opt/Modules/$MODULE_VERSION/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/prueba/torque-scripts</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>9378.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>8</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477953142</etime>
+	<exit_status>1</exit_status>
+	<submit_args>-V -q phi-debug interactivo.sh</submit_args>
+	<start_time>1477953143</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477953145</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9379.meta.cnca</Job_Id>
+	<Job_Name>seleccioncg</Job_Name>
+	<Job_Owner>lualcava@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477964003</ctime>
+	<Error_Path>login-0.cnca:/home/lualcava/K_Pruebas/seleccioncg.e9379</Error_Path>
+	<exec_host>cadejos-0.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>lcalvo@itcr.ac.cr</Mail_Users>
+	<mtime>1477964004</mtime>
+	<Output_Path>login-0.cnca:/home/lualcava/K_Pruebas/seleccioncg.o9379</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477964003</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-0.cnca</nodes>
+		<procct>0</procct>
+		<walltime>252000</walltime>
+	</Resource_List>
+	<session_id>18219</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/lualcava,PBS_O_LOGNAME=lualcava,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lualcava/bin,PBS_O_MAIL=/var/spool/mail/lualcava,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/lualcava/K_Pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>lualcava</euser>
+	<egroup>cluster</egroup>
+	<hashname>9379.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>9</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477964003</etime>
+	<exit_status>1</exit_status>
+	<submit_args>ejecutar.sh</submit_args>
+	<start_time>1477964004</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477964005</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

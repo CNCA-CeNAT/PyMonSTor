@@ -1,0 +1,110 @@
+<Jobinfo>
+	<Job_Id>7805.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>11396kb</mem>
+		<vmem>356976kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471908096</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/mem.e7805</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0+cadejos-2.cnca/0</exec_host>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471908097</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/mem.o7805</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471908096</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<session_id>30732</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.206.114.2 35482 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/eromerob,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.206.114.2 35482 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7805.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>34</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471908096</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca mem.sh</submit_args>
+	<start_time>1471908097</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471908097</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7806.meta.cnca</Job_Id>
+	<Job_Name>solute-water</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>11384kb</mem>
+		<vmem>356976kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471908383</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/solute-water.e7806</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0+cadejos-2.cnca/0</exec_host>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471908384</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/solute-water.o7806</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471908383</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>259200</walltime>
+	</Resource_List>
+	<session_id>30788</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.206.114.2 35482 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/eromerob,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.206.114.2 35482 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7806.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>35</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471908383</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca solute-water.sh</submit_args>
+	<start_time>1471908384</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471908384</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+

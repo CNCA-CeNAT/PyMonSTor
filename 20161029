@@ -1,0 +1,55 @@
+<Jobinfo>
+	<Job_Id>9363.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>422821</cput>
+		<mem>376112kb</mem>
+		<vmem>1746632kb</vmem>
+		<walltime>70469</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>cpu-n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1477711301</ctime>
+	<Error_Path>login-0.cnca:/home/eromerob/lammps/mem.e9363</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0</exec_host>
+	<exec_port>15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1477781773</mtime>
+	<Output_Path>login-0.cnca:/home/eromerob/lammps/mem.o9363</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1477711301</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca</neednodes>
+		<nodect>2</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<session_id>4064</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=cpu-n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>9363.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>2</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1477711301</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-q cpu-n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca mem.sh</submit_args>
+	<start_time>1477711303</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1477781773</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

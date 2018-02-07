@@ -1,0 +1,1229 @@
+<Jobinfo>
+	<Job_Id>8406.meta.cnca</Job_Id>
+	<Job_Name>dft-charge</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>212421</cput>
+		<mem>4212804kb</mem>
+		<vmem>19140156kb</vmem>
+		<walltime>27290</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473636514</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/gamess/dft-charge.e8406</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1473663806</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/gamess/dft-charge.o8406</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473636514</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-3.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>cadejos-3.cnca</nodes>
+		<procct>0</procct>
+		<walltime>259200</walltime>
+	</Resource_List>
+	<session_id>2865</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/gamess,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=186.15.171.48 9948 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/eromerob,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/gamess,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=186.15.171.48 9948 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>8406.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>89</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473636514</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-3.cnca dft-charge.sh</submit_args>
+	<start_time>1473636516</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473663806</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8407.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>84792kb</mem>
+		<vmem>460892kb</vmem>
+		<walltime>196</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473719256</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>33146</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473719453</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473719256</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8566</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12118,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36773 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36773 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8407.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>90</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473719256</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473719257</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473719453</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8408.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>4</cput>
+		<mem>79304kb</mem>
+		<vmem>308968kb</vmem>
+		<walltime>54</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473719853</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>37972</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473719908</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473719853</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8694</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12118,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36773 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36773 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8408.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>91</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473719853</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473719854</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473719908</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8409.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>1</cput>
+		<mem>78904kb</mem>
+		<vmem>308836kb</vmem>
+		<walltime>41</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473719948</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46075</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473719990</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473719948</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8800</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12118,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36773 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36773 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8409.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>92</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473719948</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473719949</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473719990</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8410.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79276kb</mem>
+		<vmem>308968kb</vmem>
+		<walltime>123</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473720180</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>55345</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473720305</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473720180</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8877</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12118,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36773 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36773 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8410.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>93</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473720180</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473720181</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473720305</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8411.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>172</cput>
+		<mem>118668kb</mem>
+		<vmem>2187672kb</vmem>
+		<walltime>1214</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473720376</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>59984</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473721596</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473720376</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8940</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12118,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 36773 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 36773 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8411.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>94</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473720376</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473720377</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473721596</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8412.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>736</cput>
+		<mem>118552kb</mem>
+		<vmem>2187692kb</vmem>
+		<walltime>1058</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473721621</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>59433</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473722680</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473721621</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9387</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=190.171.117.15 64947 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,HISTCONTROL=ignoredups,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,QTLIB=/usr/lib64/qt-3.3/lib,SSH_CONNECTION=190.171.117.15 64947 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8412.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>95</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473721621</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473721622</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473722680</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8413.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>295</cput>
+		<mem>103764kb</mem>
+		<vmem>1476680kb</vmem>
+		<walltime>579</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473722703</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>53088</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473723283</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473722703</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9769</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=190.171.117.15 65452 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,HISTCONTROL=ignoredups,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,QTLIB=/usr/lib64/qt-3.3/lib,SSH_CONNECTION=190.171.117.15 65452 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8413.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>96</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473722703</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473722704</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473723283</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8414.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>379</cput>
+		<mem>225884kb</mem>
+		<vmem>2187692kb</vmem>
+		<walltime>1912</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473724178</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>48538</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473726092</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473724178</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9947</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12226,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 46288 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 46288 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8414.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>97</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473724178</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473724180</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473726092</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8415.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>18</cput>
+		<mem>86976kb</mem>
+		<vmem>729736kb</vmem>
+		<walltime>1825</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473726330</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46989</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473728156</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473726330</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>10669</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12226,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 46288 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 46288 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8415.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>98</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473726330</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473726331</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473728156</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8416.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>6</cput>
+		<mem>359240kb</mem>
+		<vmem>1429248kb</vmem>
+		<walltime>1907</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473728324</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>45107</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473730232</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473728324</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>11340</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12226,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 46288 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 46288 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8416.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>99</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473728324</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473728325</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473730232</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8418.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473732521</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e8418</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o8418</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=2</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=2</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=181.194.205.201 56409 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=181.194.205.201 56409 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-V submit.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8419.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473732522</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e8419</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o8419</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=2</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=2</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-V submit.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8420.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473732523</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e8420</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o8420</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=2</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=2</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hop_count>1</hop_count>
+	<submit_args>-V submit.pbs</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8417.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473732506</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e8417</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473732507</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o8417</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473732506</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>11904</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=181.194.205.201 56409 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=181.194.205.201 56409 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>8417.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>100</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473732506</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1473732507</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473732507</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8421.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>14</cput>
+		<mem>86820kb</mem>
+		<vmem>460964kb</vmem>
+		<walltime>1919</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473735059</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>35919</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473736979</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473735059</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>12116</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=190.171.117.15 51495 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/0,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,HISTCONTROL=ignoredups,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,QTLIB=/usr/lib64/qt-3.3/lib,SSH_CONNECTION=190.171.117.15 51495 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8421.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>101</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473735059</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473735060</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473736979</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8422.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79276kb</mem>
+		<vmem>308968kb</vmem>
+		<walltime>75</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473737346</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>51852</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473737422</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473737346</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>12757</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12487,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 51547 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 51547 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8422.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>102</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473737346</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473737347</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473737422</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8423.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>6</cput>
+		<mem>84928kb</mem>
+		<vmem>460860kb</vmem>
+		<walltime>1949</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473738001</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60399</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473739951</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473738001</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>12862</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12504,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 44709 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 44709 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8423.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>103</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473738001</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473738002</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473739951</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8424.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgamboa@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79276kb</mem>
+		<vmem>308968kb</vmem>
+		<walltime>38</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473739991</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41323</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473740031</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473739991</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>13205</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgamboa,PBS_O_LOGNAME=cgamboa,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,PBS_O_MAIL=/var/spool/mail/cgamboa,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgamboa/mc8836/hw3,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,XDG_SESSION_ID=12504,HOSTNAME=login-1.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 44709 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgamboa,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016/linux/lib/intel64/:,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgamboa/bin,MAIL=/var/spool/mail/cgamboa,_=/usr/local/bin/qsub,PWD=/home/cgamboa/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/cgamboa,SHLVL=2,LOGNAME=cgamboa,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 44709 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/617,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>cgamboa</euser>
+	<egroup>cluster</egroup>
+	<hashname>8424.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>104</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473739991</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473739992</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473740031</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8426.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>436</cput>
+		<mem>201096kb</mem>
+		<vmem>6687860kb</vmem>
+		<walltime>569</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473744299</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>47904</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473744868</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473744299</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9445</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw3,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,XDG_SESSION_ID=23362,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 58510 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 58510 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/616,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgomez/computacion_paralela/mc8836,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>8426.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>106</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473744299</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473744299</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473744868</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8427.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>12</cput>
+		<mem>111332kb</mem>
+		<vmem>1429244kb</vmem>
+		<walltime>153</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473744931</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41109</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473745085</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473744931</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9655</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw3,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,XDG_SESSION_ID=23362,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 58510 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 58510 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/616,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgomez/computacion_paralela/mc8836,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>8427.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>107</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473744931</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473744932</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473745085</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8428.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79316kb</mem>
+		<vmem>308980kb</vmem>
+		<walltime>104</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473745224</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>38061</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473745329</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473745224</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>9776</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw3,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,XDG_SESSION_ID=23362,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 58510 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin/:/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw3,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 58510 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/616,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},OLDPWD=/home/cgomez/computacion_paralela/mc8836,_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>8428.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>108</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473745224</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473745225</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473745329</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>8425.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>mcalvo@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>28</cput>
+		<mem>224304kb</mem>
+		<vmem>1476676kb</vmem>
+		<walltime>1941</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1473743814</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>42584</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1473745757</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1473743814</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>13495</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/mcalvo,PBS_O_LOGNAME=mcalvo,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/mcalvo/bin,PBS_O_MAIL=/var/spool/mail/mcalvo,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/mcalvo/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,XDG_SESSION_ID=23357,LC_MONETARY=es_CR.UTF-8,HOSTNAME=login-0.cnca,SHELL=/bin/bash,TERM=xterm,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 58426 22,LC_NUMERIC=es_CR.UTF-8,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=mcalvo,LC_TELEPHONE=es_CR.UTF-8,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/mcalvo/bin,MAIL=/var/spool/mail/mcalvo,_=/usr/local/bin/qsub,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/mcalvo/torque-scripts,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LC_MEASUREMENT=es_CR.UTF-8,LOADEDMODULES=,HISTCONTROL=ignoredups,HOME=/home/mcalvo,SHLVL=2,LOGNAME=mcalvo,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 58426 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/615,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}</Variable_List>
+	<euser>mcalvo</euser>
+	<egroup>cluster</egroup>
+	<hashname>8425.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>105</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1473743814</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1473743816</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1473745757</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

@@ -1,0 +1,1332 @@
+<Jobinfo>
+	<Job_Id>7833.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79224kb</mem>
+		<vmem>308820kb</vmem>
+		<walltime>1913</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472320889</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>55202</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472322803</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472320889</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>5303</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-1.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60386 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60386 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7833.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>47</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472320889</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472320890</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472322803</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7834.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79216kb</mem>
+		<vmem>308820kb</vmem>
+		<walltime>158</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472322805</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60557</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472322965</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472322805</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>5550</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-1.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 60386 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 60386 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7834.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>48</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472322805</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472322807</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472322965</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7835.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472331752</ctime>
+	<Error_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7835</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472331762</mtime>
+	<Output_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7835</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472331752</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6201</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7835.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>49</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7835.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7835.meta.cnca.OU to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7835, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7835.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7835.meta.cnca.ER to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7835, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7835.meta.cnca.ER</sched_hint>
+	<etime>1472331752</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472331753</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472331762</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7836.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472332045</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7836</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472332055</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7836</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472332045</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6346</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7836.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>50</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7836.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7836.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7836, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7836.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7836.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7836, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7836.meta.cnca.ER</sched_hint>
+	<etime>1472332045</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472332046</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472332055</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7837.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79240kb</mem>
+		<vmem>308920kb</vmem>
+		<walltime>154</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472332208</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>42280</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472332364</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472332208</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6504</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7837.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>51</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472332208</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472332209</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472332364</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7838.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472332445</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7838</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472332454</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7838</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472332445</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6592</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7838.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>52</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7838.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7838.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7838, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7838.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7838.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7838, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7838.meta.cnca.ER</sched_hint>
+	<etime>1472332445</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472332446</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472332454</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7840.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472333201</ctime>
+	<Error_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7840</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472333211</mtime>
+	<Output_Path>login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7840</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472333201</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>3185</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7840.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>54</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7840.meta.cnca on host cadejos-4.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7840.meta.cnca.OU to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7840, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7840.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7840.meta.cnca.ER to cgomez@login-1.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7840, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7840.meta.cnca.ER</sched_hint>
+	<etime>1472333201</etime>
+	<exit_status>127</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472333203</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472333211</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7839.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>413</cput>
+		<mem>30229552kb</mem>
+		<vmem>46428928kb</vmem>
+		<walltime>1916</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472332721</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>33418</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472334638</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472332721</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>6636</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7839.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>53</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472332721</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472332722</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472334638</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7841.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>759</cput>
+		<mem>32081596kb</mem>
+		<vmem>45277512kb</vmem>
+		<walltime>820</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472335728</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41120</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472336549</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472335728</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7062</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7841.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>55</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472335728</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472335729</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472336550</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7842.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>625</cput>
+		<mem>11374228kb</mem>
+		<vmem>11861096kb</vmem>
+		<walltime>388</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472336724</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41750</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472337113</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472336724</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7220</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7842.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>56</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472336724</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472336725</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472337113</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7843.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472337168</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7843</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472337178</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7843</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472337168</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7299</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7843.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>57</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7843.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7843.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7843, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7843.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7843.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7843, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7843.meta.cnca.ER</sched_hint>
+	<etime>1472337168</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472337169</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472337178</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7844.meta.cnca</Job_Id>
+	<Job_Name>msort</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472337355</ctime>
+	<Error_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7844</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472337364</mtime>
+	<Output_Path>login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7844</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472337355</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7349</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7844.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>58</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7844.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7844.meta.cnca.OU to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.o7844, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7844.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7844.meta.cnca.ER to cgomez@login-0.cnca:/home/cgomez/computacion_paralela/mc8836/hw1/msort.e7844, error 1
+*** error from copy
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7844.meta.cnca.ER</sched_hint>
+	<etime>1472337355</etime>
+	<exit_status>0</exit_status>
+	<submit_args>msort.pbs</submit_args>
+	<start_time>1472337356</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472337364</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7845.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>964</cput>
+		<mem>11310848kb</mem>
+		<vmem>12171376kb</vmem>
+		<walltime>499</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472337881</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46573</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472338382</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472337881</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7426</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7845.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>59</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472337881</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472337883</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472338382</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7846.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>727</cput>
+		<mem>11141576kb</mem>
+		<vmem>11688872kb</vmem>
+		<walltime>300</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472338833</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>51636</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472339135</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472338833</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>7568</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7846.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>60</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472338833</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472338835</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472339135</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7847.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79244kb</mem>
+		<vmem>308928kb</vmem>
+		<walltime>368</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472343180</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>56496</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472343549</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472343180</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8014</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7847.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>61</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472343180</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472343181</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472343549</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7848.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>10</cput>
+		<mem>79236kb</mem>
+		<vmem>308932kb</vmem>
+		<walltime>117</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472343849</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>41362</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472343968</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472343849</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8116</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7848.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>62</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472343849</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472343851</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472343968</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7849.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>26</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472345362</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46537</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472345389</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472345362</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8249</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7849.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>63</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472345362</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472345363</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472345389</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7850.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79236kb</mem>
+		<vmem>308932kb</vmem>
+		<walltime>29</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472345471</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>49286</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472345501</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472345471</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8303</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7850.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>64</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472345471</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472345472</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472345501</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7851.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>18</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472345508</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>43023</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472345527</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472345508</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8341</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7851.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>65</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472345508</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472345509</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472345527</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7852.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>29</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472345539</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>49602</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472345568</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472345539</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8374</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7852.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>66</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472345539</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472345539</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472345568</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7853.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>271</cput>
+		<mem>31911856kb</mem>
+		<vmem>78542432kb</vmem>
+		<walltime>1422</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472345701</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>38898</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472347124</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472345701</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8413</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7853.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>67</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472345701</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472345702</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472347124</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7854.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>cgomez@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>1046</cput>
+		<mem>862092kb</mem>
+		<vmem>1649768kb</vmem>
+		<walltime>228</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1472347331</ctime>
+	<Error_Path>/dev/pts/0</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>56821</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1472347560</mtime>
+	<Output_Path>/dev/pts/0</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1472347331</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>8669</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/cgomez,PBS_O_LOGNAME=cgomez,PBS_O_PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,PBS_O_MAIL=/var/spool/mail/cgomez,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/cgomez/computacion_paralela/mc8836/hw1,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=login-0.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 45729 22,LC_NUMERIC=es_CR.UTF-8,OLDPWD=/home/cgomez/computacion_paralela/mc8836,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=cgomez,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/cgomez,PATH=/opt/intel/bin/:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/cgomez/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/cgomez/computacion_paralela/mc8836/hw1,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,LC_MEASUREMENT=es_CR.UTF-8,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/cgomez,LOGNAME=cgomez,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 45729 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,LC_TIME=es_CR.UTF-8,LC_NAME=es_CR.UTF-8,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>cgomez</euser>
+	<egroup>cluster</egroup>
+	<hashname>7854.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>68</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1472347331</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1472347332</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1472347560</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

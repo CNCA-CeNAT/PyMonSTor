@@ -1,0 +1,711 @@
+<Jobinfo>
+	<Job_Id>7722.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469227888</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7723.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469227889</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7724.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469227890</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7725.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229525</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7726.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229526</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7727.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229527</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7728.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229749</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7729.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229750</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7730.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229751</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7732.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230051</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7733.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230052</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7734.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230053</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7735.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230183</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7736.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230184</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7737.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-1.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230185</ctime>
+	<Error_Path>login-1.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-1.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7738.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230218</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7739.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230219</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7740.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230220</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7731.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>2932kb</mem>
+		<vmem>321488kb</vmem>
+		<walltime>60</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469229864</ctime>
+	<Error_Path>meta.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<mtime>1469229924</mtime>
+	<Output_Path>meta.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469229864</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<session_id>24740</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=cygwin,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 50061 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/2,USER=rroman,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman/pruebas,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 50061 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/rroman</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7731.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>1</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1469229864</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V -qn3h72 testjob.sh</submit_args>
+	<start_time>1469229864</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469229925</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7741.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230227</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n4h24 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7742.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230228</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n4h24 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7743.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230229</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-q n4h24 testjob.sh</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7744.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>2892kb</mem>
+		<vmem>321500kb</vmem>
+		<walltime>60</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469230454</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<exec_host>cadejos-0.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<mtime>1469230992</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469230454</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<session_id>16537</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7744.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>1</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7744.meta.cnca on host cadejos-0.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7744.meta.cnca.OU to rroman@login-0.cnca:/home/rroman/pruebas/out/testjob.o7744.meta.cnca, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7744.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7744.meta.cnca.ER to rroman@login-0.cnca:/home/rroman/pruebas/err/testjob.e7744.meta.cnca, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7744.meta.cnca.ER</sched_hint>
+	<etime>1469230454</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-q n3h72 testjob.sh</submit_args>
+	<start_time>1469230924</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469230992</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

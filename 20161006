@@ -1,0 +1,1252 @@
+<Jobinfo>
+	<Job_Id>9262.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-c.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784350</ctime>
+	<Error_Path>phi-c.cnca:/home/wvillalobos/STDIN.e9262</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>40221</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-c.cnca:/home/wvillalobos/STDIN.o9262</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-c.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-c.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9263.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784350</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9263</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54511</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9263</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9264.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784351</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9264</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54511</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9264</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9265.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784352</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9265</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54511</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9265</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9266.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784431</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9266</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>59878</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9266</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9267.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784432</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9267</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>59878</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9267</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9268.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784433</ctime>
+	<Error_Path>phi-a.cnca:/home/wvillalobos/STDIN.e9268</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>59878</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/wvillalobos/STDIN.o9268</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9269.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784438</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9269</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54809</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9269</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9270.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784439</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9270</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54809</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9270</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9271.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784440</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9271</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54809</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9271</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9272.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-b.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784735</ctime>
+	<Error_Path>phi-b.cnca:/home/wvillalobos/STDIN.e9272</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46079</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-b.cnca:/home/wvillalobos/STDIN.o9272</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-b.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-b.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9273.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-d.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784735</ctime>
+	<Error_Path>phi-d.cnca:/home/wvillalobos/STDIN.e9273</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34341</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-d.cnca:/home/wvillalobos/STDIN.o9273</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-d.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-d.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9274.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-d.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784736</ctime>
+	<Error_Path>phi-d.cnca:/home/wvillalobos/STDIN.e9274</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34341</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-d.cnca:/home/wvillalobos/STDIN.o9274</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-d.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-d.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9275.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-d.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784737</ctime>
+	<Error_Path>phi-d.cnca:/home/wvillalobos/STDIN.e9275</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34341</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-d.cnca:/home/wvillalobos/STDIN.o9275</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-d.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-d.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9276.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-c.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784742</ctime>
+	<Error_Path>phi-c.cnca:/home/wvillalobos/STDIN.e9276</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60220</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-c.cnca:/home/wvillalobos/STDIN.o9276</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-c.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-c.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9277.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-c.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784743</ctime>
+	<Error_Path>phi-c.cnca:/home/wvillalobos/STDIN.e9277</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60220</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-c.cnca:/home/wvillalobos/STDIN.o9277</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-c.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-c.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9278.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>wvillalobos@phi-c.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784744</ctime>
+	<Error_Path>phi-c.cnca:/home/wvillalobos/STDIN.e9278</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>60220</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-c.cnca:/home/wvillalobos/STDIN.o9278</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/wvillalobos,PBS_O_LOGNAME=wvillalobos,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/wvillalobos/bin,PBS_O_MAIL=/var/spool/mail/wvillalobos,PBS_O_SHELL=/bin/bash,PBS_O_LANG=es_ES.utf8,PBS_O_WORKDIR=/home/wvillalobos,PBS_O_HOST=phi-c.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-c.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9279.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784834</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9279</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34551</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9279</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=16,HOSTNAME=phi-a.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50217 22,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50217 10.0.0.150 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9282.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784834</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9282</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>45576</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9282</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=19,HOSTNAME=phi-a.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50218 22,SSH_TTY=/dev/pts/4,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50218 10.0.0.150 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9280.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784834</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9280</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>54784</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9280</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=17,HOSTNAME=phi-a.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50216 22,SSH_TTY=/dev/pts/2,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50216 10.0.0.150 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9281.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784834</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9281</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>44898</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9281</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=18,HOSTNAME=phi-a.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50219 22,SSH_TTY=/dev/pts/3,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50219 10.0.0.150 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9283.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784835</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9283</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>44898</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9283</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9284.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@phi-a.cnca</Job_Owner>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475784836</ctime>
+	<Error_Path>phi-a.cnca:/home/rroman/STDIN.e9284</Error_Path>
+	<Hold_Types>0</Hold_Types>
+	<interactive>44898</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Output_Path>phi-a.cnca:/home/rroman/STDIN.o9284</Output_Path>
+	<Priority>0</Priority>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<procct>1</procct>
+	</Resource_List>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=phi-a.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<hop_count>1</hop_count>
+	<submit_args>-I -V -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>phi-a.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9289.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52851</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9290.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52851</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9291.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>52851</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9292.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>45470</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes1:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9293.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>45470</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes1:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9294.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>45470</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-V -I -qdebug -lnodes1:ppn=200</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9285.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79400kb</mem>
+		<vmem>309212kb</vmem>
+		<walltime>10</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785044</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>phi-d.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>58288</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785056</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785044</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>51410</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=1361,HOSTNAME=login-0.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50025 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50025 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9285.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>1</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785044</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug</submit_args>
+	<start_time>1475785045</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785056</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9286.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785067</ctime>
+	<Error_Path>/dev/pts/3</Error_Path>
+	<exec_host>phi-a.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>39639</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785070</mtime>
+	<Output_Path>/dev/pts/3</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785067</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>phi-a.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>phi-a.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>19111</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=1361,HOSTNAME=login-0.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50025 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50025 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9286.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>2</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785067</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -lnodes=phi-a.cnca</submit_args>
+	<start_time>1475785067</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785070</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9288.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785075</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>phi-c.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>43196</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785079</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785075</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>phi-c.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>phi-c.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>55840</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=1361,HOSTNAME=login-0.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50025 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50025 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9288.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>4</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785075</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -lnodes=phi-c.cnca</submit_args>
+	<start_time>1475785076</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785079</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9287.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785070</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>phi-b.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>56109</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785075</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785070</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>phi-b.cnca</neednodes>
+		<nodect>1</nodect>
+		<nodes>phi-b.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>18456</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,XDG_SESSION_ID=1361,HOSTNAME=login-0.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.0.0.1 50025 22,SSH_TTY=/dev/pts/0,QT_GRAPHICSSYSTEM_CHECKED=1,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,CVS_RSH=ssh,SSH_CONNECTION=10.0.0.1 50025 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,XDG_RUNTIME_DIR=/run/user/500,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9287.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>3</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785070</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -lnodes=phi-b.cnca</submit_args>
+	<start_time>1475785071</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785075</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9295.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>4</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785191</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>phi-d.cnca/0+phi-d.cnca/1+phi-d.cnca/2+phi-d.cnca/3+phi-d.cnca/4+phi-d.cnca/5+phi-d.cnca/6+phi-d.cnca/7+phi-d.cnca/8+phi-d.cnca/9+phi-d.cnca/10+phi-d.cnca/11+phi-d.cnca/12+phi-d.cnca/13+phi-d.cnca/14+phi-d.cnca/15+phi-d.cnca/16+phi-d.cnca/17+phi-d.cnca/18+phi-d.cnca/19+phi-d.cnca/20+phi-d.cnca/21+phi-d.cnca/22+phi-d.cnca/23+phi-d.cnca/24+phi-d.cnca/25+phi-d.cnca/26+phi-d.cnca/27+phi-d.cnca/28+phi-d.cnca/29+phi-d.cnca/30+phi-d.cnca/31+phi-d.cnca/32+phi-d.cnca/33+phi-d.cnca/34+phi-d.cnca/35+phi-d.cnca/36+phi-d.cnca/37+phi-d.cnca/38+phi-d.cnca/39+phi-d.cnca/40+phi-d.cnca/41+phi-d.cnca/42+phi-d.cnca/43+phi-d.cnca/44+phi-d.cnca/45+phi-d.cnca/46+phi-d.cnca/47+phi-d.cnca/48+phi-d.cnca/49+phi-d.cnca/50+phi-d.cnca/51+phi-d.cnca/52+phi-d.cnca/53+phi-d.cnca/54+phi-d.cnca/55+phi-d.cnca/56+phi-d.cnca/57+phi-d.cnca/58+phi-d.cnca/59+phi-d.cnca/60+phi-d.cnca/61+phi-d.cnca/62+phi-d.cnca/63+phi-d.cnca/64+phi-d.cnca/65+phi-d.cnca/66+phi-d.cnca/67+phi-d.cnca/68+phi-d.cnca/69+phi-d.cnca/70+phi-d.cnca/71+phi-d.cnca/72+phi-d.cnca/73+phi-d.cnca/74+phi-d.cnca/75+phi-d.cnca/76+phi-d.cnca/77+phi-d.cnca/78+phi-d.cnca/79+phi-d.cnca/80+phi-d.cnca/81+phi-d.cnca/82+phi-d.cnca/83+phi-d.cnca/84+phi-d.cnca/85+phi-d.cnca/86+phi-d.cnca/87+phi-d.cnca/88+phi-d.cnca/89+phi-d.cnca/90+phi-d.cnca/91+phi-d.cnca/92+phi-d.cnca/93+phi-d.cnca/94+phi-d.cnca/95+phi-d.cnca/96+phi-d.cnca/97+phi-d.cnca/98+phi-d.cnca/99+phi-d.cnca/100+phi-d.cnca/101+phi-d.cnca/102+phi-d.cnca/103+phi-d.cnca/104+phi-d.cnca/105+phi-d.cnca/106+phi-d.cnca/107+phi-d.cnca/108+phi-d.cnca/109+phi-d.cnca/110+phi-d.cnca/111+phi-d.cnca/112+phi-d.cnca/113+phi-d.cnca/114+phi-d.cnca/115+phi-d.cnca/116+phi-d.cnca/117+phi-d.cnca/118+phi-d.cnca/119+phi-d.cnca/120+phi-d.cnca/121+phi-d.cnca/122+phi-d.cnca/123+phi-d.cnca/124+phi-d.cnca/125+phi-d.cnca/126+phi-d.cnca/127+phi-d.cnca/128+phi-d.cnca/129+phi-d.cnca/130+phi-d.cnca/131+phi-d.cnca/132+phi-d.cnca/133+phi-d.cnca/134+phi-d.cnca/135+phi-d.cnca/136+phi-d.cnca/137+phi-d.cnca/138+phi-d.cnca/139+phi-d.cnca/140+phi-d.cnca/141+phi-d.cnca/142+phi-d.cnca/143+phi-d.cnca/144+phi-d.cnca/145+phi-d.cnca/146+phi-d.cnca/147+phi-d.cnca/148+phi-d.cnca/149+phi-d.cnca/150+phi-d.cnca/151+phi-d.cnca/152+phi-d.cnca/153+phi-d.cnca/154+phi-d.cnca/155+phi-d.cnca/156+phi-d.cnca/157+phi-d.cnca/158+phi-d.cnca/159+phi-d.cnca/160+phi-d.cnca/161+phi-d.cnca/162+phi-d.cnca/163+phi-d.cnca/164+phi-d.cnca/165+phi-d.cnca/166+phi-d.cnca/167+phi-d.cnca/168+phi-d.cnca/169+phi-d.cnca/170+phi-d.cnca/171+phi-d.cnca/172+phi-d.cnca/173+phi-d.cnca/174+phi-d.cnca/175+phi-d.cnca/176+phi-d.cnca/177+phi-d.cnca/178+phi-d.cnca/179+phi-d.cnca/180+phi-d.cnca/181+phi-d.cnca/182+phi-d.cnca/183+phi-d.cnca/184+phi-d.cnca/185+phi-d.cnca/186+phi-d.cnca/187+phi-d.cnca/188+phi-d.cnca/189+phi-d.cnca/190+phi-d.cnca/191+phi-d.cnca/192+phi-d.cnca/193+phi-d.cnca/194+phi-d.cnca/195+phi-d.cnca/196+phi-d.cnca/197+phi-d.cnca/198+phi-d.cnca/199</exec_host>
+	<exec_port>15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>53134</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785198</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785191</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=200</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=200</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>51516</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 60332 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/8,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 60332 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9295.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>5</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785191</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-V -I -qdebug -lnodes=1:ppn=200</submit_args>
+	<start_time>1475785192</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785198</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9296.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>7</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475785199</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>phi-d.cnca/0+phi-d.cnca/1+phi-d.cnca/2+phi-d.cnca/3+phi-d.cnca/4+phi-d.cnca/5+phi-d.cnca/6+phi-d.cnca/7+phi-d.cnca/8+phi-d.cnca/9</exec_host>
+	<exec_port>15003+15003+15003+15003+15003+15003+15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>58520</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475785209</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475785199</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=10</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=10</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>51561</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,COSA=bash_profile,HOSTNAME=meta.cnca,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=10.4.255.9 60332 22,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/8,USER=rroman,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MAIL=/var/spool/mail/rroman,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/rroman/bin,PWD=/home/rroman,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/rroman,LOGNAME=rroman,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=10.4.255.9 60332 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9296.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>6</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475785199</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-V -I -qdebug -lnodes=1:ppn=10</submit_args>
+	<start_time>1475785200</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475785209</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9297.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46884</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-*.cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9298.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46884</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-*.cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9299.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>46884</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-*.cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9300.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34600</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-[a-d].cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9301.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34600</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-[a-d].cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9302.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Checkpoint>u</Checkpoint>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34600</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<Priority>0</Priority>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+
+	</Resource_List>
+	<submit_args>-I -lnodes=phi-[a-d].cnca -q debug</submit_args>
+	<fault_tolerant>0</fault_tolerant>
+	<job_radix>0</job_radix>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9303.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>33420</cput>
+		<mem>2140860kb</mem>
+		<vmem>50782116kb</vmem>
+		<walltime>3097</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1475793283</ctime>
+	<Error_Path>/dev/pts/4</Error_Path>
+	<exec_host>phi-a.cnca/0+phi-b.cnca/0+phi-c.cnca/0+phi-d.cnca/0</exec_host>
+	<exec_port>15003+15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>35403</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1475796383</mtime>
+	<Output_Path>/dev/pts/4</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1475793283</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>phi-a.cnca+phi-b.cnca+phi-c.cnca+phi-d.cnca</neednodes>
+		<nodect>4</nodect>
+		<nodes>phi-a.cnca+phi-b.cnca+phi-c.cnca+phi-d.cnca</nodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>25086</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>9303.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>7</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1475793283</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -lnodes=phi-a.cnca+phi-b.cnca+phi-c.cnca+phi-d.cnca -q debug</submit_args>
+	<start_time>1475793284</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1475796383</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

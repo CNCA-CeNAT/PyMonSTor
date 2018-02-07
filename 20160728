@@ -1,0 +1,367 @@
+<Jobinfo>
+	<Job_Id>7745.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>2916kb</mem>
+		<vmem>321488kb</vmem>
+		<walltime>60</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469726175</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/err/$PBS_JOBNAME.e$PBS_JOBID</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<mtime>1469726244</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/out/$PBS_JOBNAME.o$PBS_JOBID</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469726175</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<session_id>23030</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7745.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>2</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7745.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7745.meta.cnca.OU to rroman@login-0.cnca:/home/rroman/pruebas/out/testjob.o7745.meta.cnca, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7745.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7745.meta.cnca.ER to rroman@login-0.cnca:/home/rroman/pruebas/err/testjob.e7745.meta.cnca, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7745.meta.cnca.ER</sched_hint>
+	<etime>1469726175</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-qn3h72 testjob.sh</submit_args>
+	<start_time>1469726176</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469726244</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7746.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469726298</ctime>
+	<Error_Path>login-0.cnca:/home/dag/torque-scripts/testjob.$PBS_JOBID.err</Error_Path>
+	<exec_host>cadejos-3.cnca/0+cadejos-3.cnca/1</exec_host>
+	<exec_port>15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<mtime>1469726307</mtime>
+	<Output_Path>login-0.cnca:/home/dag/torque-scripts/testjob.$PBS_JOBID.out</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469726298</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=2</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=2</nodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<session_id>23074</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/dag/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>7746.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>3</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7746.meta.cnca on host cadejos-3.cnca/0+cadejos-3.cnca/1
+
+Unable to copy file /var/spool/torque/spool/7746.meta.cnca.OU to dag@login-0.cnca:/home/dag/torque-scripts/testjob.7746.meta.cnca.out, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7746.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7746.meta.cnca.ER to dag@login-0.cnca:/home/dag/torque-scripts/testjob.7746.meta.cnca.err, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7746.meta.cnca.ER</sched_hint>
+	<etime>1469726298</etime>
+	<exit_status>255</exit_status>
+	<submit_args>-q n4h24 testjob.sh</submit_args>
+	<start_time>1469726299</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469726307</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7747.meta.cnca</Job_Id>
+	<Job_Name>compile</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469726390</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/pruebas/compile.e7747</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1469726399</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/pruebas/compile.o7747</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469726390</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>23117</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/pruebas,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7747.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>4</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7747.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7747.meta.cnca.OU to rroman@login-0.cnca:/home/rroman/pruebas/compile.o7747, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7747.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7747.meta.cnca.ER to rroman@login-0.cnca:/home/rroman/pruebas/compile.e7747, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7747.meta.cnca.ER</sched_hint>
+	<etime>1469726390</etime>
+	<exit_status>1</exit_status>
+	<submit_args>-qn3h72 compile.sh</submit_args>
+	<start_time>1469726391</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469726399</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7748.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469730932</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7748</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1469730935</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7748</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469730932</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>23451</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7748.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>5</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1469730932</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-q n3h72 test.sh</submit_args>
+	<start_time>1469730933</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469730935</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7749.meta.cnca</Job_Id>
+	<Job_Name>testjob</Job_Name>
+	<Job_Owner>dag@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469731532</ctime>
+	<Error_Path>login-0.cnca:/home/dag/torque-scripts/testjob.$PBS_JOBID.err</Error_Path>
+	<exec_host>cadejos-3.cnca/0+cadejos-3.cnca/1</exec_host>
+	<exec_port>15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>abe</Mail_Points>
+	<Mail_Users>rroman@meta.cnca</Mail_Users>
+	<mtime>1469731533</mtime>
+	<Output_Path>login-0.cnca:/home/dag/torque-scripts/testjob.$PBS_JOBID.out</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469731532</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=2</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=2</nodes>
+		<procct>0</procct>
+		<walltime>3600</walltime>
+	</Resource_List>
+	<session_id>23525</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/dag,PBS_O_LOGNAME=dag,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dag/bin,PBS_O_MAIL=/var/spool/mail/dag,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/dag/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>dag</euser>
+	<egroup>cluster</egroup>
+	<hashname>7749.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>6</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1469731532</etime>
+	<exit_status>255</exit_status>
+	<submit_args>-q n4h24 testjob.sh</submit_args>
+	<start_time>1469731533</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469731533</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7750.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1469737199</ctime>
+	<Error_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.e7750</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1469737202</mtime>
+	<Output_Path>login-0.cnca:/home/rroman/torque-scripts/ejecutar.o7750</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1469737199</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>n3h72</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>23890</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7750.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>7</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1469737199</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-q n3h72 test.sh</submit_args>
+	<start_time>1469737200</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1469737202</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+

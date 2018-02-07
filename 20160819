@@ -1,0 +1,917 @@
+<Jobinfo>
+	<Job_Id>7787.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79088kb</mem>
+		<vmem>308996kb</vmem>
+		<walltime>176</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471643726</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>39039</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471643903</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471643726</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>20726</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/torque-scripts,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-1.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 34359 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses/torque-scripts,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 34359 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7787.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>19</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471643726</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471643727</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471643903</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7788.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471643912</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>34063</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471643915</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471643912</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>20824</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-1.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 34359 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 34359 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses/torque-scripts</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7788.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>20</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471643912</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471643913</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471643915</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7786.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>51</cput>
+		<mem>84872kb</mem>
+		<vmem>855880kb</vmem>
+		<walltime>1916</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471643710</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>36029</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471645628</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471643710</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21500</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-0.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 57038 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses/parallel_computing/cilk,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 57038 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses/parallel_computing</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7786.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>18</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471643710</etime>
+	<exit_status>-11</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471643712</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471645628</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7789.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>147</cput>
+		<mem>471376kb</mem>
+		<vmem>718992kb</vmem>
+		<walltime>356</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471645764</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>56594</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471646122</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471645764</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21809</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-0.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 57038 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses/parallel_computing/cilk,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 57038 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses/parallel_computing</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7789.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>21</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471645764</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471645765</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471646122</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7790.meta.cnca</Job_Id>
+	<Job_Name>matmul</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>19</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471647286</ctime>
+	<Error_Path>login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.e7790</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471647296</mtime>
+	<Output_Path>login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.o7790</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471647286</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22007</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7790.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>22</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7790.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7790.meta.cnca.OU to meneses@login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.o7790, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7790.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7790.meta.cnca.ER to meneses@login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.e7790, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7790.meta.cnca.ER</sched_hint>
+	<etime>1471647286</etime>
+	<exit_status>0</exit_status>
+	<submit_args>matmul.pbs</submit_args>
+	<start_time>1471647287</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471647296</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7791.meta.cnca</Job_Id>
+	<Job_Name>matmul</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>19</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471647501</ctime>
+	<Error_Path>login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.e7791</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471647511</mtime>
+	<Output_Path>login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.o7791</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471647501</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22151</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7791.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>23</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 7791.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/7791.meta.cnca.OU to meneses@login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.o7791, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7791.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/7791.meta.cnca.ER to meneses@login-1.cnca:/home/meneses/parallel_computing/cilk/matmul.e7791, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/7791.meta.cnca.ER</sched_hint>
+	<etime>1471647501</etime>
+	<exit_status>0</exit_status>
+	<submit_args>matmul.pbs</submit_args>
+	<start_time>1471647502</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471647511</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7795.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>rroman@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471648396</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>48162</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471648398</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471648396</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22263</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/rroman,PBS_O_LOGNAME=rroman,PBS_O_PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/rroman/bin,PBS_O_MAIL=/var/spool/mail/rroman,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/rroman/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>rroman</euser>
+	<egroup>cluster</egroup>
+	<hashname>7795.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>24</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471648396</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug</submit_args>
+	<start_time>1471648397</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471648398</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7796.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471648959</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>38634</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471648962</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471648959</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22324</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7796.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>25</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471648959</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -q debug</submit_args>
+	<start_time>1471648961</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471648962</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7797.meta.cnca</Job_Id>
+	<Job_Name>compilar</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471648990</ctime>
+	<Error_Path>login-0.cnca:/home/meneses/torque-scripts/compilar.e7797</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471648992</mtime>
+	<Output_Path>login-0.cnca:/home/meneses/torque-scripts/compilar.o7797</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471648990</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22384</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/torque-scripts,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7797.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>26</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471648990</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-q debug compilar.sh</submit_args>
+	<start_time>1471648992</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471648992</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7798.meta.cnca</Job_Id>
+	<Job_Name>matmul</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>19</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471649293</ctime>
+	<Error_Path>login-0.cnca:/home/meneses/parallel_computing/cilk/matmul.e7798</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471649295</mtime>
+	<Output_Path>login-0.cnca:/home/meneses/parallel_computing/cilk/matmul.o7798</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471649293</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22460</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7798.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>27</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471649293</etime>
+	<exit_status>0</exit_status>
+	<submit_args>matmul.pbs</submit_args>
+	<start_time>1471649294</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471649296</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7799.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79424kb</mem>
+		<vmem>309120kb</vmem>
+		<walltime>56</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471662409</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>43095</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471662465</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471662409</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>23415</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-1.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 41190 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses/parallel_computing/cilk,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 41190 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses/parallel_computing</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7799.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>28</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471662409</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471662409</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471662465</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7801.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>79084kb</mem>
+		<vmem>308996kb</vmem>
+		<walltime>63</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471662502</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-4.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>42903</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471662566</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471662502</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22067</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-0.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 35727 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 35727 10.0.0.10 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7801.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>30</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471662502</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471662503</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471662566</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7800.meta.cnca</Job_Id>
+	<Job_Name>STDIN</Job_Name>
+	<Job_Owner>meneses@login-1.cnca</Job_Owner>
+	<resources_used>
+		<cput>297</cput>
+		<mem>471452kb</mem>
+		<vmem>793748kb</vmem>
+		<walltime>1425</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471662470</ctime>
+	<Error_Path>/dev/pts/1</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<interactive>36948</interactive>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471663897</mtime>
+	<Output_Path>/dev/pts/1</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471662470</qtime>
+	<Rerunable>0</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>23473</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-1.cnca,PBS_O_SERVER=meta.cnca,MKLROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl,MANPATH=/opt/intel/man/common:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/man:/opt/intel/documentation_2016/en/debugger//gdb-ia/man/:/opt/intel/documentation_2016/en/debugger//gdb-mic/man/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/man/:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man,HOSTNAME=login-1.cnca,INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries_2016.3.210/linux/licenses:/opt/intel/licenses:/home/meneses/intel/licenses,IPPROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp,TERM=xterm-256color,SHELL=/bin/bash,HISTSIZE=1000,GDBSERVER_MIC=/opt/intel/debugger_2016/gdb/targets/mic/bin/gdbserver,SSH_CLIENT=10.0.0.1 41190 22,LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,SSH_TTY=/dev/pts/1,QT_GRAPHICSSYSTEM_CHECKED=1,USER=meneses,LD_LIBRARY_PATH=/opt/intel/composer_xe_2013/lib/intel64/:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/intel64/gcc4.4:/opt/intel/debugger_2016/libipt/intel64/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/intel64_lin:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../tbb/lib/intel64_lin/gcc4.4:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/../compiler/lib/intel64_lin,LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:,MIC_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/lib/mic,CPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/ipp/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb/include:/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/include,NLSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/compiler/lib/intel64/locale/%l_%t/%N:/opt/intel/compilers_and_libraries_2016.3.210/linux/mkl/lib/intel64/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64_mic/share/locale/%l_%t/%N:/opt/intel/debugger_2016/gdb/intel64/share/locale/%l_%t/%N,MAIL=/var/spool/mail/meneses,PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,TBBROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/tbb,PWD=/home/meneses/parallel_computing/cilk,GDB_CROSS=/opt/intel/debugger_2016/gdb/intel64_mic/bin/gdb-mic,LANG=en_US.UTF-8,MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles,LOADEDMODULES=,DAALROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal,MPM_LAUNCHER=/opt/intel/debugger_2016/mpm/mic/bin/start_mpm.sh,HISTCONTROL=ignoredups,INTEL_PYTHONHOME=/opt/intel/debugger_2016/python/intel64/,SHLVL=1,HOME=/home/meneses,LOGNAME=meneses,CVS_RSH=ssh,CLASSPATH=/opt/intel/compilers_and_libraries_2016.3.210/linux/daal/lib/daal.jar,SSH_CONNECTION=10.0.0.1 41190 10.0.0.11 22,MODULESHOME=/usr/share/Modules,LESSOPEN=||/usr/bin/lesspipe.sh %s,INFOPATH=/opt/intel/documentation_2016/en/debugger//gdb-ia/info/:/opt/intel/documentation_2016/en/debugger//gdb-mic/info/:/opt/intel/documentation_2016/en/debugger//gdb-igfx/info/,I_MPI_ROOT=/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi,BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+},_=/usr/local/bin/qsub,OLDPWD=/home/meneses/parallel_computing</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7800.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>29</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471662470</etime>
+	<exit_status>265</exit_status>
+	<submit_args>-I -V -q debug -l nodes=1 -l walltime=00:30:00</submit_args>
+	<start_time>1471662471</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471663897</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-1.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7802.meta.cnca</Job_Id>
+	<Job_Name>matmulEstebanPrueba</Job_Name>
+	<Job_Owner>meneses@login-0.cnca</Job_Owner>
+	<resources_used>
+		<cput>11</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471664085</ctime>
+	<Error_Path>login-0.cnca:/home/meneses/parallel_computing/cilk/matmulEstebanPrueba.e7802</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1471664087</mtime>
+	<Output_Path>login-0.cnca:/home/meneses/parallel_computing/cilk/matmulEstebanPrueba.o7802</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471664085</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>23740</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/meneses,PBS_O_LOGNAME=meneses,PBS_O_PATH=/opt/intel/bin/:/opt/intel/compilers_and_libraries_2016.3.210/linux/bin/intel64:/opt/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin:/opt/intel/debugger_2016/gdb/intel64_mic/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/meneses/bin,PBS_O_MAIL=/var/spool/mail/meneses,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/meneses/parallel_computing/cilk,PBS_O_HOST=login-0.cnca,PBS_O_SERVER=meta.cnca</Variable_List>
+	<euser>meneses</euser>
+	<egroup>cluster</egroup>
+	<hashname>7802.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>31</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471664085</etime>
+	<exit_status>0</exit_status>
+	<submit_args>matmul.pbs</submit_args>
+	<start_time>1471664086</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471664088</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>login-0.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7803.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>2996kb</mem>
+		<vmem>65284kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471671515</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/mem.e7803</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0+cadejos-2.cnca/0</exec_host>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471671516</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/mem.o7803</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471671515</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<session_id>15012</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=186.15.171.48 1126 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/eromerob,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=186.15.171.48 1126 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7803.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>32</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471671515</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca mem.sh</submit_args>
+	<start_time>1471671516</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471671516</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>7804.meta.cnca</Job_Id>
+	<Job_Name>mem</Job_Name>
+	<Job_Owner>eromerob@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>11384kb</mem>
+		<vmem>356976kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n3h72</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1471671600</ctime>
+	<Error_Path>meta.cnca:/home/eromerob/lammps/mem.e7804</Error_Path>
+	<exec_host>cadejos-0.cnca/0+cadejos-1.cnca/0+cadejos-2.cnca/0</exec_host>
+	<exec_port>15003+15003+15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>oe</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>be</Mail_Points>
+	<mtime>1471671601</mtime>
+	<Output_Path>meta.cnca:/home/eromerob/lammps/mem.o7804</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1471671600</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</neednodes>
+		<nodect>3</nodect>
+		<nodes>cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca</nodes>
+		<procct>0</procct>
+		<walltime>172800</walltime>
+	</Resource_List>
+	<session_id>15042</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n3h72,PBS_O_HOME=/home/eromerob,PBS_O_LOGNAME=eromerob,PBS_O_PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PBS_O_MAIL=/var/spool/mail/eromerob,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/eromerob/lammps,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=186.15.171.48 1126 22,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/eromerob,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=eromerob,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/eromerob,PATH=/home/eromerob/mpi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/eromerob/bin,PWD=/home/eromerob/lammps,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/eromerob,LOGNAME=eromerob,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=186.15.171.48 1126 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>eromerob</euser>
+	<egroup>cluster</egroup>
+	<hashname>7804.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>33</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1471671600</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V -q n3h72 -l nodes=cadejos-0.cnca+cadejos-1.cnca+cadejos-2.cnca mem.sh</submit_args>
+	<start_time>1471671601</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1471671601</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+

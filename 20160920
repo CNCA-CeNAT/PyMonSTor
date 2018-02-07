@@ -1,0 +1,596 @@
+<Jobinfo>
+	<Job_Id>9240.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474419527</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9240</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474419536</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9240</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474419527</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>21446</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 33782 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/ldcl289,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/2,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 33782 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9240.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>842</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9240.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9240.meta.cnca.OU to ldcl289@meta.cnca:/home/ldcl289/solctra/solctra.o9240, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9240.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9240.meta.cnca.ER to ldcl289@meta.cnca:/home/ldcl289/solctra/solctra.e9240, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9240.meta.cnca.ER</sched_hint>
+	<etime>1474419527</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474419528</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474419536</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9241.meta.cnca</Job_Id>
+	<Job_Name>a.sh</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474422268</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/torque-scripts/a.sh.e9241</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474422277</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/torque-scripts/a.sh.o9241</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474422268</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+	</Resource_List>
+	<session_id>21680</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/ldcl289/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=cygwin,HISTSIZE=1000,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/ldcl289,QTINC=/usr/lib64/qt-3.3/include,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9241.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>843</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9241.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9241.meta.cnca.OU to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/a.sh.o9241, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9241.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9241.meta.cnca.ER to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/a.sh.e9241, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9241.meta.cnca.ER</sched_hint>
+	<etime>1474422268</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V -q debug a.sh</submit_args>
+	<start_time>1474422269</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474422277</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9242.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474422348</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.e9242</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474422359</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.o9242</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474422348</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+	</Resource_List>
+	<session_id>21820</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/ldcl289/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=cygwin,HISTSIZE=1000,QTDIR=/usr/lib64/qt-3.3,OLDPWD=/home/ldcl289,QTINC=/usr/lib64/qt-3.3/include,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9242.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>844</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9242.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9242.meta.cnca.OU to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/ejecutar.o9242, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9242.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9242.meta.cnca.ER to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/ejecutar.e9242, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9242.meta.cnca.ER</sched_hint>
+	<etime>1474422348</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V -q debug test.sh</submit_args>
+	<start_time>1474422349</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474422359</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9243.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474423138</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.e9243</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474423150</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.o9243</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474423138</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22151</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/ldcl289/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=cygwin,HISTSIZE=1000,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9243.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>845</queue_rank>
+	<queue_type>E</queue_type>
+	<sched_hint>Post job file processing error; job 9243.meta.cnca on host cadejos-3.cnca/0
+
+Unable to copy file /var/spool/torque/spool/9243.meta.cnca.OU to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/ejecutar.o9243, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9243.meta.cnca.OU
+
+Unable to copy file /var/spool/torque/spool/9243.meta.cnca.ER to ldcl289@meta.cnca:/home/ldcl289/torque-scripts/ejecutar.e9243, error 1
+*** error from copy
+Host key verification failed.
+lost connection
+*** end error output
+Output retained on that host in: /var/spool/torque/undelivered/9243.meta.cnca.ER</sched_hint>
+	<etime>1474423138</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V test.sh -q debug</submit_args>
+	<start_time>1474423140</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474423150</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9244.meta.cnca</Job_Id>
+	<Job_Name>ejecutar</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>2</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>debug</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474423233</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.e9244</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474423236</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/torque-scripts/ejecutar.o9244</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474423233</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>debug</neednodes>
+		<procct>0</procct>
+	</Resource_List>
+	<session_id>22256</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=debug,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_WORKDIR=/home/ldcl289/torque-scripts,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,HOSTNAME=meta.cnca,SHELL=/bin/bash,TERM=cygwin,HISTSIZE=1000,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PWD=/home/ldcl289/torque-scripts,LANG=en_US.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9244.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>846</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474423233</etime>
+	<exit_status>0</exit_status>
+	<submit_args>-V test.sh -q debug</submit_args>
+	<start_time>1474423234</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474423236</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9245.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474423726</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9245</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474423727</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9245</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474423726</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22348</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 34520 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 34520 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9245.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>847</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474423726</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474423727</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474423727</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9246.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474426049</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9246</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474426050</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9246</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474426049</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22492</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 34520 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 34520 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9246.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>848</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474426049</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474426050</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474426050</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9247.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>1</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474426050</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9247</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474426051</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9247</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474426050</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22522</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 34520 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 34520 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9247.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>849</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474426050</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474426050</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474426051</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9249.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474426052</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9249</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474426053</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9249</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474426052</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22584</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 34520 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 34520 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9249.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>851</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474426052</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474426052</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474426053</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
+<Jobinfo>
+	<Job_Id>9248.meta.cnca</Job_Id>
+	<Job_Name>solctra</Job_Name>
+	<Job_Owner>ldcl289@meta.cnca</Job_Owner>
+	<resources_used>
+		<cput>0</cput>
+		<mem>0kb</mem>
+		<vmem>0kb</vmem>
+		<walltime>0</walltime>
+	</resources_used>
+	<job_state>C</job_state>
+	<queue>n4h24</queue>
+	<server>meta.cnca</server>
+	<Checkpoint>u</Checkpoint>
+	<ctime>1474426051</ctime>
+	<Error_Path>meta.cnca:/home/ldcl289/solctra/solctra.e9248</Error_Path>
+	<exec_host>cadejos-3.cnca/0</exec_host>
+	<exec_port>15003</exec_port>
+	<Hold_Types>0</Hold_Types>
+	<Join_Path>n</Join_Path>
+	<Keep_Files>n</Keep_Files>
+	<Mail_Points>a</Mail_Points>
+	<mtime>1474426052</mtime>
+	<Output_Path>meta.cnca:/home/ldcl289/solctra/solctra.o9248</Output_Path>
+	<Priority>0</Priority>
+	<qtime>1474426051</qtime>
+	<Rerunable>1</Rerunable>
+	<Resource_List>
+		<neednodes>1:ppn=1</neednodes>
+		<nodect>1</nodect>
+		<nodes>1:ppn=1</nodes>
+		<procct>0</procct>
+		<walltime>1800</walltime>
+	</Resource_List>
+	<session_id>22552</session_id>
+	<substate>59</substate>
+	<Variable_List>PBS_O_QUEUE=n4h24,PBS_O_HOME=/home/ldcl289,PBS_O_LOGNAME=ldcl289,PBS_O_PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,PBS_O_MAIL=/var/spool/mail/ldcl289,PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,PBS_O_INITDIR=/home/ldcl289/solctra,PBS_O_WORKDIR=/home/ldcl289/solctra,PBS_O_HOST=meta.cnca,PBS_O_SERVER=meta.cnca,LC_PAPER=es_CR.UTF-8,LC_ADDRESS=es_CR.UTF-8,HOSTNAME=meta.cnca,LC_MONETARY=es_CR.UTF-8,TERM=xterm,SHELL=/bin/bash,HISTSIZE=1000,SSH_CLIENT=201.203.144.66 34520 22,LC_NUMERIC=es_CR.UTF-8,QTDIR=/usr/lib64/qt-3.3,QTINC=/usr/lib64/qt-3.3/include,SSH_TTY=/dev/pts/1,USER=ldcl289,LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:,LC_TELEPHONE=es_CR.UTF-8,MAIL=/var/spool/mail/ldcl289,PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/maui/bin:/home/ldcl289/bin,LC_IDENTIFICATION=es_CR.UTF-8,PWD=/home/ldcl289/solctra,LANG=en_US.UTF-8,LC_MEASUREMENT=es_CR.UTF-8,PS1=[\d \t - \u@\h:\w ] $,SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass,HISTCONTROL=ignoredups,SHLVL=1,HOME=/home/ldcl289,LOGNAME=ldcl289,QTLIB=/usr/lib64/qt-3.3/lib,CVS_RSH=ssh,SSH_CONNECTION=201.203.144.66 34520 192.168.0.2 22,LESSOPEN=|/usr/bin/lesspipe.sh %s,G_BROKEN_FILENAMES=1,LC_NAME=es_CR.UTF-8,_=/usr/local/bin/qsub,OLDPWD=/home/ldcl289</Variable_List>
+	<euser>ldcl289</euser>
+	<egroup>cluster</egroup>
+	<hashname>9248.meta.cnca</hashname>
+	<hop_count>1</hop_count>
+	<queue_rank>850</queue_rank>
+	<queue_type>E</queue_type>
+	<etime>1474426051</etime>
+	<exit_status>127</exit_status>
+	<submit_args>-V submit.pbs</submit_args>
+	<start_time>1474426051</start_time>
+	<start_count>1</start_count>
+	<fault_tolerant>0</fault_tolerant>
+	<comp_time>1474426052</comp_time>
+	<job_radix>0</job_radix>
+	<total_runtime></total_runtime>
+	<submit_host>meta.cnca</submit_host>
+</Jobinfo>
+
